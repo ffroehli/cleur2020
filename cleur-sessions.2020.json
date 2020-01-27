@@ -1,0 +1,4194 @@
+[
+    {
+      "name": "BRKSDN-2379",
+      "description": "13 steps from an unprogrammed to a fully automated network - BRKSDN-2379"
+    },
+    {
+      "name": "BRKCLD-2020",
+      "description": "20/20 Vision and Security in a Multicloud Environment - BRKCLD-2020"
+    },
+    {
+      "name": "IMP-4316",
+      "description": "21st Century Mindfulness - IMP-4316"
+    },
+    {
+      "name": "TECSEC-2345",
+      "description": "250 not OK: Going on the defensive with Cisco Email Security - TECSEC-2345"
+    },
+    {
+      "name": "BRKSEC-2140",
+      "description": "2 birds with 1 stone: DUO integration with Cisco ISE and Firewall solutions - BRKSEC-2140"
+    },
+    {
+      "name": "LABSEC-1441",
+      "description": "2FA for Administration with DUO - LABSEC-1441"
+    },
+    {
+      "name": "BRKRST-2559",
+      "description": "3 Steps to Design Cisco SD-WAN On-Prem - BRKRST-2559"
+    },
+    {
+      "name": "LTRRST-2734",
+      "description": "4 Hours to Build Your Own Cisco SD-WAN Lab - LTRRST-2734"
+    },
+    {
+      "name": "BRKSPM-2743",
+      "description": "5G Cloud Native Packet Core and Network Slicing Automation - BRKSPM-2743"
+    },
+    {
+      "name": "BRKSPG-2557",
+      "description": "5G Synchronization - Design, Testing and Deploying Timing to support 5G rollouts - BRKSPG-2557"
+    },
+    {
+      "name": "TECSPM-2306",
+      "description": "5G System – Cisco proposal with state-of-the-art technology in every domain - TECSPM-2306"
+    },
+    {
+      "name": "BRKSPM-3295",
+      "description": "5G Timing &amp; Synchronization architectures - BRKSPM-3295"
+    },
+    {
+      "name": "BRKSPM-2012",
+      "description": "5G xHaul Transport - BRKSPM-2012"
+    },
+    {
+      "name": "BRKEWN-2439",
+      "description": "7 New ways to Fail as a Wireless Expert... - BRKEWN-2439"
+    },
+    {
+      "name": "BRKSEC-2011",
+      "description": "About Garlic and Onions : Dealing with Anonymizers and Introduction into the Darknet - BRKSEC-2011"
+    },
+    {
+      "name": "LABCCT-2126",
+      "description": "Accelerate business with chat and social media integration - LABCCT-2126"
+    },
+    {
+      "name": "DEVNET-2412",
+      "description": "Accelerate Cisco DNA SD-Access deployments through Business API orchestration - DEVNET-2412"
+    },
+    {
+      "name": "PSO-3123",
+      "description": "Accelerate Transformation with Cisco Managed Services        - PSO-3123"
+    },
+    {
+      "name": "BRKGEN-3193",
+      "description": "Accelerate your Digital Transformation across Technology Domains through Software Control Points, Buying Programs & APIs - BRKGEN-3193"
+    },
+    {
+      "name": "PAR-2984",
+      "description": "Accelerate your Hybrid Multicloud Deployments in 2020 - PAR-2984"
+    },
+    {
+      "name": "INTDEV-1915",
+      "description": "Accelerating Success Through Certifications and Automation with the New Network - INTDEV-1915"
+    },
+    {
+      "name": "PAR-1975",
+      "description": "Achieving Agile Network Operations for Complex Hybrid Infrastructures - PAR-1975"
+    },
+    {
+      "name": "PSOIOT-1151",
+      "description": "Achieving business outcomes using IoT solutions - PSOIOT-1151"
+    },
+    {
+      "name": "DEVNET-4001",
+      "description": "ACI Anywhere with DevNet - DEVNET-4001"
+    },
+    {
+      "name": "BRKACI-2683",
+      "description": "ACI Cloud First - BRKACI-2683"
+    },
+    {
+      "name": "LABACI-2001",
+      "description": "ACI Extension to AWS  - LABACI-2001"
+    },
+    {
+      "name": "LABACI-1007",
+      "description": "ACI Infrastructure as code - Automating ACI with Terraform - LABACI-1007"
+    },
+    {
+      "name": "LABACI-1001",
+      "description": "ACI - Introduction to the Application Policy Infrastructure Controller (APIC) - LABACI-1001"
+    },
+    {
+      "name": "LTRACI-2226",
+      "description": "ACI L4-L7 Practice Lab - LTRACI-2226"
+    },
+    {
+      "name": "LABACI-1234",
+      "description": "ACI Micro-segmentation Lab - LABACI-1234"
+    },
+    {
+      "name": "BRKACI-2271",
+      "description": "ACI Monitoring: Providing a complete view of your fabric - BRKACI-2271"
+    },
+    {
+      "name": "LABACI-2148",
+      "description": "ACI Monitoring, Stats and Analytics hands-on lab - LABACI-2148"
+    },
+    {
+      "name": "LTRACI-2445",
+      "description": "ACI Multicloud Extensions to AWS and Azure Hands on lab - LTRACI-2445"
+    },
+    {
+      "name": "BRKACI-2125",
+      "description": "ACI Multi-Site Architecture and Deployment - BRKACI-2125"
+    },
+    {
+      "name": "LABACI-1334",
+      "description": "ACI NIR Walk through  - LABACI-1334"
+    },
+    {
+      "name": "LABACI-2010",
+      "description": "ACI Runs Everything  - LABACI-2010"
+    },
+    {
+      "name": "BRKACI-2641",
+      "description": "ACI Troubleshooting: Endpoints - BRKACI-2641"
+    },
+    {
+      "name": "BRKACI-2642",
+      "description": "ACI Troubleshooting: Layer 3 outs - BRKACI-2642"
+    },
+    {
+      "name": "BRKACI-2934",
+      "description": "ACI Troubleshooting: Multipod - BRKACI-2934"
+    },
+    {
+      "name": "BRKACI-2674",
+      "description": "ACI Troubleshooting: Multi-Site Orchestrator - BRKACI-2674"
+    },
+    {
+      "name": "BRKACI-2644",
+      "description": "ACI Troubleshooting: Policy Based Redirect (PBR)  - BRKACI-2644"
+    },
+    {
+      "name": "BRKACI-2645",
+      "description": "ACI Troubleshooting: VMware vDS VMM integration - BRKACI-2645"
+    },
+    {
+      "name": "LTRDCN-2429",
+      "description": "ACI Troubleshooting with Network Assurance Engine - LTRDCN-2429"
+    },
+    {
+      "name": "LTRACI-2967",
+      "description": "ACI with Kubernetes to create a private devops cloud - LTRACI-2967"
+    },
+    {
+      "name": "PSO-2899",
+      "description": "A Day in the Office – a Small Business Overview - PSO-2899"
+    },
+    {
+      "name": "PSOSPG-2188",
+      "description": "Addressing the Architectural Transitions within Service Provider Networks - PSOSPG-2188"
+    },
+    {
+      "name": "BRKSPG-1565",
+      "description": "A Deeper Dive into the Telco Cloud Architecture Evolution to support 5G and MEC - BRKSPG-1565"
+    },
+    {
+      "name": "PSOSEC-4901",
+      "description": "Adopting a Zero Trust architecture with Cisco Zero Trust - PSOSEC-4901"
+    },
+    {
+      "name": "TECSPG-3001",
+      "description": "Advanced ASR 9000 Operation and Troubleshooting - TECSPG-3001"
+    },
+    {
+      "name": "TECCCIE-3644",
+      "description": "Advanced CCIE DC Techtorial - TECCCIE-3644"
+    },
+    {
+      "name": "BRKNMS-3021",
+      "description": "Advanced Cisco IOS Device Instrumentation - BRKNMS-3021"
+    },
+    {
+      "name": "BRKDEV-3244",
+      "description": "Advanced coding for Cisco Video devices - BRKDEV-3244"
+    },
+    {
+      "name": "TECCRS-2500",
+      "description": "Advanced Enterprise WAN Design and Deployment - TECCRS-2500"
+    },
+    {
+      "name": "BRKSEC-3300",
+      "description": "Advanced IPS Deployment with Firepower NGFW - BRKSEC-3300"
+    },
+    {
+      "name": "LABSPG-3122",
+      "description": "Advanced IPv6 Routing and services lab - LABSPG-3122"
+    },
+    {
+      "name": "BRKSEC-3200",
+      "description": "Advanced IPv6 Security Threats and Mitigation - BRKSEC-3200"
+    },
+    {
+      "name": "BRKSEC-3432",
+      "description": "Advanced ISE Architect, Design and Scale ISE for your production networks - BRKSEC-3432"
+    },
+    {
+      "name": "TECSEC-2599",
+      "description": "Advanced Malware Protection and Threat Mitigation on Endpoints - TECSEC-2599"
+    },
+    {
+      "name": "LTRIPM-3314",
+      "description": "Advanced - Multipoint LDP (mLDP) - LTRIPM-3314"
+    },
+    {
+      "name": "BRKDEV-2483",
+      "description": "Advanced Programmability with Tetration - BRKDEV-2483"
+    },
+    {
+      "name": "BRKSEC-3690",
+      "description": "Advanced Security Group Tags: The Detailed Walk Through - BRKSEC-3690"
+    },
+    {
+      "name": "BRKSAN-2883",
+      "description": "Advanced Storage Area Network Design - BRKSAN-2883"
+    },
+    {
+      "name": "BRKSPG-2503",
+      "description": "Advanced Topics in XR Telemetry - BRKSPG-2503"
+    },
+    {
+      "name": "BRKCOL-3004",
+      "description": "Advanced Troubleshooting of Cisco Collaboration Video Endpoints  - BRKCOL-3004"
+    },
+    {
+      "name": "BRKEWN-3013",
+      "description": "Advanced Troubleshooting of Cisco Catalyst 9800 Wireless Controller - BRKEWN-3013"
+    },
+    {
+      "name": "BRKARC-3147",
+      "description": "Advanced troubleshooting of the ASR1k and ISR (including SDWAN Edge) made easy - BRKARC-3147"
+    },
+    {
+      "name": "BRKSPG-2165",
+      "description": "Advanced troubleshooting of the NCS5500 (IOS-XR) made easy - BRKSPG-2165"
+    },
+    {
+      "name": "BRKEWN-3011",
+      "description": "Advanced Troubleshooting of Wireless LANs - BRKEWN-3011"
+    },
+    {
+      "name": "BRKSEC-3771",
+      "description": "Advanced Web Security Appliance Deployment &amp; Troubleshooting with a side of Advanced Threat Technologies - BRKSEC-3771"
+    },
+    {
+      "name": "BRKEWN-2006",
+      "description": "Advancements in Wireless Security - BRKEWN-2006"
+    },
+    {
+      "name": "CSSAVC-5107",
+      "description": "AdvoChat: Collaboration - CSSAVC-5107"
+    },
+    {
+      "name": "CSSAVC-5108",
+      "description": "AdvoChat: Customer Experience (CX) - CSSAVC-5108"
+    },
+    {
+      "name": "CSSAVC-5106",
+      "description": "AdvoChat: Data Center - CSSAVC-5106"
+    },
+    {
+      "name": "CSSAVC-5100",
+      "description": "AdvoChat: Enterprise Networking - CSSAVC-5100"
+    },
+    {
+      "name": "CSSAVC-5105",
+      "description": "AdvoChat: IoT - Taking IoT Security to the Skies: A Journey with Airbus Helicopters - CSSAVC-5105"
+    },
+    {
+      "name": "CSSAVC-5101",
+      "description": "AdvoChat: Professional networking, building your brand &amp; beyond - CSSAVC-5101"
+    },
+    {
+      "name": "CSSAVC-5102",
+      "description": "AdvoChat: Security - CSSAVC-5102"
+    },
+    {
+      "name": "CSSAVC-5104",
+      "description": "AdvoChat: Service Providers - CSSAVC-5104"
+    },
+    {
+      "name": "CSSAVC-5103",
+      "description": "AdvoChat: Small and Mid-Size Business - CSSAVC-5103"
+    },
+    {
+      "name": "TCRSEC-2178",
+      "description": "Agile and automated security for Modern data centers - TCRSEC-2178"
+    },
+    {
+      "name": "LTRCOL-2574",
+      "description": "A Hands-on Approach to Automation with Cisco Collaboration APIs - LTRCOL-2574"
+    },
+    {
+      "name": "LTRSPG-2840",
+      "description": "A hands-on programmable approach to Segment Routing Traffic Engineering (SRTE) use cases  - LTRSPG-2840"
+    },
+    {
+      "name": "DEVLIT-4001",
+      "description": "A Look at Microsegmentation in VXLAN EVPN - DEVLIT-4001"
+    },
+    {
+      "name": "BRKSEC-1655",
+      "description": "A Match Made in the Cloud: Cisco Umbrella + SD-WAN Integration - BRKSEC-1655"
+    },
+    {
+      "name": "BRKSEC-2186",
+      "description": "A multi-cloud segmentation journey through big data with Tetration - BRKSEC-2186"
+    },
+    {
+      "name": "BRKACI-2040",
+      "description": "A multi-cloud segmentation journey through big data with Tetration for network engineers - BRKACI-2040"
+    },
+    {
+      "name": "BRKCOL-2794",
+      "description": "A New Architecture for Easy Always-on UC Security (Goodbye CAPF, Hello OAuth) - BRKCOL-2794"
+    },
+    {
+      "name": "DEVNET-2722",
+      "description": "API driven Internet route monitoring with Crosswork Network Insights - DEVNET-2722"
+    },
+    {
+      "name": "DEVNET-2326",
+      "description": "API Integrations for Cisco Email Security  - DEVNET-2326"
+    },
+    {
+      "name": "DEVLIT-4012",
+      "description": "API Metadata Why You Should Care! - DEVLIT-4012"
+    },
+    {
+      "name": "DEVNET-2323",
+      "description": "APIs for Automating Network Element Deployment - DEVNET-2323"
+    },
+    {
+      "name": "LTRCLD-2321",
+      "description": "AppDynamics Cloud Adoption: Hands on Workshop - LTRCLD-2321"
+    },
+    {
+      "name": "BRKSEC-2382",
+      "description": "Application and User-centric Protection with Duo Security - BRKSEC-2382"
+    },
+    {
+      "name": "PAR-2232",
+      "description": "Application-Centric and Intelligent Network Security Policy Visibility and Automation - PAR-2232"
+    },
+    {
+      "name": "TECACI-2009",
+      "description": "Application Centric Infrastructure (ACI) - The Intent Based Data Center - TECACI-2009"
+    },
+    {
+      "name": "PAR-1994",
+      "description": "Application Driven Infrastructure with Cisco Workload Optimization Manager and AppDynamics - PAR-1994"
+    },
+    {
+      "name": "BRKSPM-2010",
+      "description": "Applying Security in a 5G World - BRKSPM-2010"
+    },
+    {
+      "name": "DEVNET-2500",
+      "description": "App-segmentation, threat detection, behavioral insight, and access control for containerized applications running in Kubernetes - DEVNET-2500"
+    },
+    {
+      "name": "BRKCLD-1003",
+      "description": "A Practical Introduction to DevOps Practices and Tools - BRKCLD-1003"
+    },
+    {
+      "name": "LTRNMS-2500",
+      "description": "A Practical Look at Cisco DNA Center: Hands-On Lab - LTRNMS-2500"
+    },
+    {
+      "name": "IMP-4947",
+      "description": "A Promise to Haiti - IMP-4947"
+    },
+    {
+      "name": "BRKDCN-2854",
+      "description": "Architecting Policy Based Hybrid Multi-Cloud Data Centers - BRKDCN-2854"
+    },
+    {
+      "name": "TECSEC-2609",
+      "description": "Architecting Security for a Zero Trust Future - TECSEC-2609"
+    },
+    {
+      "name": "PSOCOL-1428",
+      "description": "Are Your Headsets Designed for Business? - PSOCOL-1428"
+    },
+    {
+      "name": "BRKRST-2600",
+      "description": "Are You Utilizing your Campus Network to its Full Potential?  - BRKRST-2600"
+    },
+    {
+      "name": "BRKSEC-3093",
+      "description": "ARM yourself using NGFWv and ASAv (Azure) - BRKSEC-3093"
+    },
+    {
+      "name": "TECSDN-3304",
+      "description": "Around the Cisco DNA Center World of Automation, Assurance and Platform in 0.3 Days! - TECSDN-3304"
+    },
+    {
+      "name": "PSOCOL-1317",
+      "description": "Artificial Intelligence and the future of Cisco Contact Centers - PSOCOL-1317"
+    },
+    {
+      "name": "BRKIOT-3511",
+      "description": "A security design for enabling Industry 4.0  - BRKIOT-3511"
+    },
+    {
+      "name": "PSOEN-2282",
+      "description": "Ask the Experts (ATX): Productive and Predictive Networking with Cisco DNAC and CX - PSOEN-2282"
+    },
+    {
+      "name": "BRKARC-2013",
+      "description": "ASR1009-X and ASR1006-X and New Forwarding Hardware    - BRKARC-2013"
+    },
+    {
+      "name": "BRKACI-2403",
+      "description": "Assurance and Insights for Datacenters: When mathematical modelling meets big data analytics - BRKACI-2403"
+    },
+    {
+      "name": "LTRSEC-2319",
+      "description": "AsyncOS Release 13.0 - What's new in Email Security - LTRSEC-2319"
+    },
+    {
+      "name": "DEVNET-1343",
+      "description": "A to Z of MUD Usage for secure IOT Onboarding - DEVNET-1343"
+    },
+    {
+      "name": "BRKUCC-3444",
+      "description": "Authentication and Authorization in Collaboration Deployments: implementation and troubleshooting - BRKUCC-3444"
+    },
+    {
+      "name": "DEVLIT-4016",
+      "description": "Automated BGP with IOx and Guestshell - DEVLIT-4016"
+    },
+    {
+      "name": "LTRNMS-2984",
+      "description": "Automated NSO Delivery with CI/CD - LTRNMS-2984"
+    },
+    {
+      "name": "BRKDCN-2937",
+      "description": "Automated &amp; Reliable Nexus to ACI Migration Best Practices - BRKDCN-2937"
+    },
+    {
+      "name": "LABOPS-1775",
+      "description": "Automated testing for your network (PyATS/Genie) - LABOPS-1775"
+    },
+    {
+      "name": "DEVNET-2756",
+      "description": "Automate Kubernetes Infrastructure deployment in a MultiCloud environment using Cloud Center Suite API - DEVNET-2756"
+    },
+    {
+      "name": "DEVNET-2192",
+      "description": "Automate Your Network with Nornir Python Automation Framework - DEVNET-2192"
+    },
+    {
+      "name": "PSOEN-2333",
+      "description": "Automate your network with Software-Defined Access - PSOEN-2333"
+    },
+    {
+      "name": "BRKOPS-1871",
+      "description": "Automate your software delivery process - BRKOPS-1871"
+    },
+    {
+      "name": "BRKACI-2770",
+      "description": "Automating ACI - BRKACI-2770"
+    },
+    {
+      "name": "DEVNET-2618",
+      "description": "Automating ACI operations on AWS - DEVNET-2618"
+    },
+    {
+      "name": "BRKACI-1619",
+      "description": "Automating ACI with Ansible - BRKACI-1619"
+    },
+    {
+      "name": "LABACI-1013",
+      "description": "Automating ACI with Ansible - LABACI-1013"
+    },
+    {
+      "name": "DEVLIT-4039",
+      "description": "Automating Highly Critical ACI Data Center Operations — A Migration Case Study - DEVLIT-4039"
+    },
+    {
+      "name": "BRKOPS-3339",
+      "description": "Automating service discovery in Network Services Orchestrator using Reconciliation framework - BRKOPS-3339"
+    },
+    {
+      "name": "BRKIOT-2900",
+      "description": "Automating the Network of Industrial Automation - BRKIOT-2900"
+    },
+    {
+      "name": "DEVNET-1611",
+      "description": "Automating Your Cisco UCS with Python - Managing Your Infrastructure as Code - DEVNET-1611"
+    },
+    {
+      "name": "LABRST-1140",
+      "description": "Automation and Programmability of IOS-XE devices - what's in it for me ? - LABRST-1140"
+    },
+    {
+      "name": "IMP-4949",
+      "description": "A voyage from illegal immigrant to social entrepreneur - IMP-4949"
+    },
+    {
+      "name": "LABCLD-1002",
+      "description": "AWS deployment of CSR1000v - LABCLD-1002"
+    },
+    {
+      "name": "BRKSEC-2431",
+      "description": "Bears, Dukes, Kittens &amp; Pandas - Using MITRE’s ATT&amp;CK to Evolve Security Architecture - BRKSEC-2431"
+    },
+    {
+      "name": "LABSEC-1674",
+      "description": "Beat the Encrypted traffic with Cisco StealthWatch ETA - LABSEC-1674"
+    },
+    {
+      "name": "PSOCOL-1657",
+      "description": "Become a Collaboration Adoption Master - PSOCOL-1657"
+    },
+    {
+      "name": "BRKSEC-2047",
+      "description": "Behind the Perimeter: Fighting Advanced Attackers - BRKSEC-2047"
+    },
+    {
+      "name": "DEVLIT-4010",
+      "description": "Behind the scenes of the IOS XE Programmability Lab - DEVLIT-4010"
+    },
+    {
+      "name": "BRKEWN-2014",
+      "description": "Be my guest! - Design and Deploy Wireless Guest Access that Works - BRKEWN-2014"
+    },
+    {
+      "name": "BRKCOL-3392",
+      "description": "Best Practice on enterprise grade Deployment for Cisco Jabber - BRKCOL-3392"
+    },
+    {
+      "name": "BRKCRS-2502",
+      "description": "Best Practices for Design and Deployment of Software Defined Access (SDA) - BRKCRS-2502"
+    },
+    {
+      "name": "BRKUCC-2011",
+      "description": "Best Practices for Migrating Previous Versions of CUCM to version 12.5 - BRKUCC-2011"
+    },
+    {
+      "name": "LTRRST-1179",
+      "description": "BGP in the Enterprise for Fun and (fake) Profit: A Hands-On Lab - LTRRST-1179"
+    },
+    {
+      "name": "LABCOL-2293",
+      "description": "Bots for WebEx Teams - create your own - LABCOL-2293"
+    },
+    {
+      "name": "PSOSEC-1903",
+      "description": "Breach defence and Cisco Threat Response - PSOSEC-1903"
+    },
+    {
+      "name": "PAR-2973",
+      "description": "Breaking News - New Veeam V10 - PAR-2973"
+    },
+    {
+      "name": "IMP-4950",
+      "description": "Bridging the Urban/Rural Divide: Children’s of Alabama Increases Access to Mental Health Services Through Telemedicine - IMP-4950"
+    },
+    {
+      "name": "DEVLIT-4030",
+      "description": "Brief intro to Git - DEVLIT-4030"
+    },
+    {
+      "name": "PSOIOT-2400",
+      "description": "Bringing IT and OT together to drive business benefits - PSOIOT-2400"
+    },
+    {
+      "name": "BRKSEC-1001",
+      "description": "Browser Isolation - New Secret Sauce  - BRKSEC-1001"
+    },
+    {
+      "name": "CSSGEN-5001",
+      "description": "Brunel University London: from the battlefield, to the boardroom, building cyber capability through influence - CSSGEN-5001"
+    },
+    {
+      "name": "BRKCRS-2818",
+      "description": "Build a Software Defined Enterprise with Cisco SD-WAN and Cisco SD-Access - BRKCRS-2818"
+    },
+    {
+      "name": "BRKRST-2791",
+      "description": "Building and Using Policies with Cisco SD-WAN - BRKRST-2791"
+    },
+    {
+      "name": "BRKDCN-3378",
+      "description": "Building DataCenter Networks with VXLAN BGP EVPN - BRKDCN-3378"
+    },
+    {
+      "name": "BRKSPG-2542",
+      "description": "Building Dynamic, Agile, and Orchestrated Services over Automated Networks with MEF 3.0 - BRKSPG-2542"
+    },
+    {
+      "name": "INTCLD-1315",
+      "description": "Building the Bridge to Multicloud: Powering the Application Revolution - INTCLD-1315"
+    },
+    {
+      "name": "LABOPS-2838",
+      "description": "Building Transport-SDN automation workflow with Crosswork Optimization Engine API - LABOPS-2838"
+    },
+    {
+      "name": "DEVNET-2088",
+      "description": "Build with Duo - DEVNET-2088"
+    },
+    {
+      "name": "BRKSDN-2497",
+      "description": "Build Your API-Based Network Troubleshooting Kit - BRKSDN-2497"
+    },
+    {
+      "name": "LTREWN-2673",
+      "description": "Build your Wireless Network Programmability &amp; Telemetry solution from scratch! - LTREWN-2673"
+    },
+    {
+      "name": "BRKSEC-3156",
+      "description": "Busting Advanced BotNet’s with AMP and Cisco Threat Response - BRKSEC-3156"
+    },
+    {
+      "name": "BRKCLD-2429",
+      "description": "But… why do I need a service mesh? Real traffic management use cases with Istio on Cisco Container Platform - BRKCLD-2429"
+    },
+    {
+      "name": "BRKSPG-2505",
+      "description": "Cable Access Evolution with Remote PHY - BRKSPG-2505"
+    },
+    {
+      "name": "PAR-2879",
+      "description": "Calling. Your way. On-prem, hosted, Cisco Cloud + Imagicle calling options - PAR-2879"
+    },
+    {
+      "name": "BRKCRS-2501",
+      "description": "Campus QoS Design-Simplified - BRKCRS-2501"
+    },
+    {
+      "name": "BRKOPS-1456",
+      "description": "Camunda - Workflow and Decision Automation Platform - BRKOPS-1456"
+    },
+    {
+      "name": "DEVLIT-4033",
+      "description": "Can you do auto-remediation without rules? - DEVLIT-4033"
+    },
+    {
+      "name": "BRKARC-2034",
+      "description": "Care and Feeding of Smart Licensing - BRKARC-2034"
+    },
+    {
+      "name": "BRKACI-3620",
+      "description": "Case Study of SP Customers running ACI based SDN Solution for Telecom Datacenter - BRKACI-3620"
+    },
+    {
+      "name": "BRKARC-3863",
+      "description": "Catalyst 9000 Series Access Switching Architecture - BRKARC-3863"
+    },
+    {
+      "name": "LTRCRS-2017",
+      "description": "Catalyst 9000 Switches Innovations: Hands-On Lab - LTRCRS-2017"
+    },
+    {
+      "name": "TECARC-2900",
+      "description": "Catalyst 9000 Switching Architecture - TECARC-2900"
+    },
+    {
+      "name": "LTRCRS-2090",
+      "description": "Catalyst 9K High Availability Lab - LTRCRS-2090"
+    },
+    {
+      "name": "BRKSPG-2515",
+      "description": "cBR-8 &amp; CCAP: Leveraging Operational Best Practices - BRKSPG-2515"
+    },
+    {
+      "name": "LABCRT-2200",
+      "description": "CCIE Collaboration Cisco Meeting Server: Core Component Configuration - LABCRT-2200"
+    },
+    {
+      "name": "LABCRT- 2201",
+      "description": "CCIE Collaboration - Cisco Meeting Server: Adhoc and Rendezvous Conference Configuration - LABCRT- 2201"
+    },
+    {
+      "name": "LABCRT-3042",
+      "description": "CCIE Collaboration: Implement and troubleshoot Mobile and Remote Access (MRA) - LABCRT-3042"
+    },
+    {
+      "name": "LABCRT-1429",
+      "description": "CCIE - DC Technologies - VPC, FEX, &nbsp;L2VPN-EVPN &amp; VXLAN on Physical Nexus platforms Practice Lab - LABCRT-1429"
+    },
+    {
+      "name": "LABCRT-2125",
+      "description": "CCIE Enterprise Infrastructure - a candidate's guide to understanding LISP for SD-Access - LABCRT-2125"
+    },
+    {
+      "name": "TECCCIE-3000",
+      "description": "CCIE Enterprise Infrastructure Techtorial - TECCCIE-3000"
+    },
+    {
+      "name": "LABCCIE-3015",
+      "description": "CCIE Routing and Switching - Diagnostic Practice Lab - LABCCIE-3015"
+    },
+    {
+      "name": "LABCCIE-2009",
+      "description": "CCIE Routing and Switching - IPv4 Technologies Practice Lab - LABCCIE-2009"
+    },
+    {
+      "name": "LABCCIE-2010",
+      "description": "CCIE Routing and Switching - IPv6 Technologies Practice Lab - LABCCIE-2010"
+    },
+    {
+      "name": "LABCCIE-2012",
+      "description": "CCIE Routing and Switching - Layer 2 Technologies Practice Lab - LABCCIE-2012"
+    },
+    {
+      "name": "LABCCIE-3014",
+      "description": "CCIE Routing and Switching - Troubleshooting Practice Lab - LABCCIE-3014"
+    },
+    {
+      "name": "LABCCIE-2015",
+      "description": "CCIE Routing &amp; Switching - Infrastructure &amp; Security Technologies - LABCCIE-2015"
+    },
+    {
+      "name": "LABCRT-2503",
+      "description": "CCIE Security: FirePower and ASA Clustering - LABCRT-2503"
+    },
+    {
+      "name": "LABCRT-2501",
+      "description": "CCIE Security: FirePower : Configuration and Troubleshooting (Basic and Advanced) - LABCRT-2501"
+    },
+    {
+      "name": "LABCRT-2500",
+      "description": "CCIE Security: ISE (Identity Services Engine): Configuration and Troubleshooting (Basic and Advanced) - LABCRT-2500"
+    },
+    {
+      "name": "TECCCIE-3202",
+      "description": "CCIE Security Techtorial - TECCCIE-3202"
+    },
+    {
+      "name": "LABCRT-1744",
+      "description": "CCNP ENARSI - Implementing Cisco Enterprise Advanced Routing and Services Practice Lab  - LABCRT-1744"
+    },
+    {
+      "name": "LABCRT-1746",
+      "description": "CCNP Enterprise ENCOR - Core Enterprise Network Technologies Practice Lab - LABCRT-1746"
+    },
+    {
+      "name": "LABCRT-1559",
+      "description": "CCNP Route - Routing Protocols and Features Practice Lab - LABCRT-1559"
+    },
+    {
+      "name": "LABCRT-1554",
+      "description": "CCNP Switch - Switching Protocols Features Practice Lab - LABCRT-1554"
+    },
+    {
+      "name": "LABCCIE-1010",
+      "description": "CCNP to CCIE Routing and Switching Bridge Labs.  - LABCCIE-1010"
+    },
+    {
+      "name": "LABCRT-1553",
+      "description": "CCNP TSHOOT - Troubleshooting Scenario Practice Labs - LABCRT-1553"
+    },
+    {
+      "name": "DEVNET-1559",
+      "description": "CICD Pipelines for Cisco's IoT Edge compute platforms -  - DEVNET-1559"
+    },
+    {
+      "name": "IMP-4489",
+      "description": "Circular Economy at Cisco: How Customers, Partners, and Employees Can Make an Impact - IMP-4489"
+    },
+    {
+      "name": "BRKARC-2005",
+      "description": "Cisco 1100 Series Integrated Services Router : Product Overview and architecture  - BRKARC-2005"
+    },
+    {
+      "name": "BRKSPG-2280",
+      "description": "Cisco 8000 Series and Silicon One ASIC Architecture - BRKSPG-2280"
+    },
+    {
+      "name": "LABEWN-1505",
+      "description": "Cisco 9800 Controllers- Understanding, Deploying and Troubleshooting - LABEWN-1505"
+    },
+    {
+      "name": "BRKACI-2003",
+      "description": "Cisco ACI Multi-Pod Design and Deployment - BRKACI-2003"
+    },
+    {
+      "name": "LABACI-1011",
+      "description": "Cisco ACI with Python - LABACI-1011"
+    },
+    {
+      "name": "TECCOL-2225",
+      "description": "Cisco and Microsoft Collaboration interoperability – Design deep dive - TECCOL-2225"
+    },
+    {
+      "name": "BRKARC-2003",
+      "description": "Cisco ASR 9000 Architecture - BRKARC-2003"
+    },
+    {
+      "name": "BRKEWN-3010",
+      "description": "Cisco Catalyst RF Innovations, WiFi6 and Beyond - BRKEWN-3010"
+    },
+    {
+      "name": "BRKCOL-2356",
+      "description": "Cisco Collaboration Transitions: On-Premises, Hybrid, and Cloud - BRKCOL-2356"
+    },
+    {
+      "name": "BRKCLD-2005",
+      "description": "Cisco Container Platform for Infrastructure Teams - BRKCLD-2005"
+    },
+    {
+      "name": "PSOGEN-4444",
+      "description": "Cisco Customer Experience Partner Session: Together we win with CX Lifecycle - PSOGEN-4444"
+    },
+    {
+      "name": "TECCRS-2700",
+      "description": "Cisco Digital Network Architecture: Enabling Enterprise networks for the digitalized business - TECCRS-2700"
+    },
+    {
+      "name": "BRKIOT-2548",
+      "description": "Cisco Distributed Automation Solutions - BRKIOT-2548"
+    },
+    {
+      "name": "BRKOPS-2131",
+      "description": "Cisco DNA Analytics and Assurance - The Shortest Path to Network Innocence - BRKOPS-2131"
+    },
+    {
+      "name": "LTRNMS-2043",
+      "description": "Cisco DNA Assurance and Analytics Lab  - LTRNMS-2043"
+    },
+    {
+      "name": "DEVNET-1234",
+      "description": "Cisco DNA Center 101: Getting started with Cisco DNA Center Platform - DEVNET-1234"
+    },
+    {
+      "name": "BRKNMS-2426",
+      "description": "Cisco DNA Center - From 0 to 100 How to get the network up and running from scratch - BRKNMS-2426"
+    },
+    {
+      "name": "TCRNMS-2100",
+      "description": "Cisco DNA Center Innovations - Meet the Experts - TCRNMS-2100"
+    },
+    {
+      "name": "BRKOPS-2826",
+      "description": "Cisco DNA Center Maintenance and Troubleshooting - BRKOPS-2826"
+    },
+    {
+      "name": "DEVNET-2225",
+      "description": "Cisco DNA Center Platform - Real time notifications via webhooks - DEVNET-2225"
+    },
+    {
+      "name": "LABCRS-2600",
+      "description": "Cisco DNA Center: SD-Access Fabric Enabled Wireless - LABCRS-2600"
+    },
+    {
+      "name": "LABCRS-2628",
+      "description": "Cisco DNA Center – SD-Access Wired from Provisioning to Verification - LABCRS-2628"
+    },
+    {
+      "name": "BRKNMS-2031",
+      "description": "Cisco DNA Center: The evolution from traditional Management to Intent-Based Automation and Assurance - BRKNMS-2031"
+    },
+    {
+      "name": "PSO-1397",
+      "description": "Cisco DNA Innovations in Wireless and SD-WAN with Flexible Consumption Models - PSO-1397"
+    },
+    {
+      "name": "TECCRS-2812",
+      "description": "Cisco DNA SD-Access Design &amp; Migration Workshop - TECCRS-2812"
+    },
+    {
+      "name": "PSOEN-2817",
+      "description": "Cisco DNA Spaces - Wi-Fi as a behaviour sensor enabling business outcomes - PSOEN-2817"
+    },
+    {
+      "name": "BRKEWN-2034",
+      "description": "Cisco DNA Wireless Assurance: Isolate problems for faster troubleshooting - BRKEWN-2034"
+    },
+    {
+      "name": "TECCRS-3006",
+      "description": "Cisco Enterprise NFV Deep Dive and Hands-On Lab - TECCRS-3006"
+    },
+    {
+      "name": "BRKCOL-2007",
+      "description": "Cisco Hosted Collaboration Solution (HCS) Architecture Deep Dive - BRKCOL-2007"
+    },
+    {
+      "name": "BRKINI-2016",
+      "description": "Cisco HyperFlex Architecture Deep Dive, System Design and Performance Analysis - BRKINI-2016"
+    },
+    {
+      "name": "BRKGEN-2194",
+      "description": "Cisco Innovates AI Platforms from Network Intent to Vision - BRKGEN-2194"
+    },
+    {
+      "name": "PSOIOT-2197",
+      "description": "Cisco Innovates Autonomous Vehicles &amp; Roadways w/ IoT - PSOIOT-2197"
+    },
+    {
+      "name": "INTINN-1200",
+      "description": "Cisco Innovates : Creating a Strategy &amp; Culture for Global Innovation - INTINN-1200"
+    },
+    {
+      "name": "BRKGEN-2193",
+      "description": "Cisco Innovates the Next Wave of Mobility - BRKGEN-2193"
+    },
+    {
+      "name": "LABIOT-1382",
+      "description": "Cisco Intent-Based Networking for securing IoT networks - LABIOT-1382"
+    },
+    {
+      "name": "BRKCOL-2611",
+      "description": "Cisco Interoperability with Microsoft - Part 2, Video Interoperability - BRKCOL-2611"
+    },
+    {
+      "name": "BRKCOL-2610",
+      "description": "Cisco Interoperability with Microsoft - Part 1, Collaboration - BRKCOL-2610"
+    },
+    {
+      "name": "BRKINI-2534",
+      "description": "Cisco Intersight Architecture and Operation - BRKINI-2534"
+    },
+    {
+      "name": "LABCRT-2311",
+      "description": "Cisco Intersight Lab - Cloud-based Infrastructure management for Cisco UCS and HyperFlex platform - LABCRT-2311"
+    },
+    {
+      "name": "PSO-1036.b",
+      "description": "Cisco Investments: Meet the Startups of Tomorrow, Today - PSO-1036.b"
+    },
+    {
+      "name": "PSO-1036.a",
+      "description": "Cisco Investments: Meet the Startups of Tomorrow, Today - PSO-1036.a"
+    },
+    {
+      "name": "PSO-1036.c",
+      "description": "Cisco Investments: Meet the Startups of Tomorrow, Today - PSO-1036.c"
+    },
+    {
+      "name": "PSO-1036.d",
+      "description": "Cisco Investments: Meet the Startups of Tomorrow, Today - PSO-1036.d"
+    },
+    {
+      "name": "LTRSPG-2601",
+      "description": "Cisco IOS XR Programmability - LTRSPG-2601"
+    },
+    {
+      "name": "BRKSPM-2007",
+      "description": "Cisco IOT in a 5G World - BRKSPM-2007"
+    },
+    {
+      "name": "BRKUCC-2050",
+      "description": "Cisco IP Phones Update: Best Practices and Collaboration Enablement - BRKUCC-2050"
+    },
+    {
+      "name": "BRKCOL-2221",
+      "description": "Cisco Jabber - Have you heard about the latest functionality? - BRKCOL-2221"
+    },
+    {
+      "name": "DEVLIT-4006",
+      "description": "Cisco Kinetic for Cites  APIs in 10 minutes - DEVLIT-4006"
+    },
+    {
+      "name": "PSOGEN-1154",
+      "description": "Cisco LaunchPad - Building the bridge to possible for Startups - PSOGEN-1154"
+    },
+    {
+      "name": "PNLNMS-1035",
+      "description": "Cisco Live Network and NOC:  Panel Discussion - PNLNMS-1035"
+    },
+    {
+      "name": "LABCLD-2906",
+      "description": "Cisco Meraki Analytics &amp; Assurance - LABCLD-2906"
+    },
+    {
+      "name": "PSOEN-1001",
+      "description": "Cisco Meraki: Mission Focused IT - PSOEN-1001"
+    },
+    {
+      "name": "BRKCLD-2931",
+      "description": "Cisco multicloud: the How! - BRKCLD-2931"
+    },
+    {
+      "name": "BRKDCN-3222",
+      "description": "Cisco Nexus 9000 Architecture - BRKDCN-3222"
+    },
+    {
+      "name": "BRKSEC-1003",
+      "description": "Cisco Platform Exchange Grid (pxGrid) Inside Out - BRKSEC-1003"
+    },
+    {
+      "name": "DEVNET-1476",
+      "description": "Cisco pxGrid 2.0 for IoT Platform Integration to Increase Visibility and Security - DEVNET-1476"
+    },
+    {
+      "name": "BRKIOT-1520",
+      "description": "Cisco Remote &amp; Mobile Asset Solutions - BRKIOT-1520"
+    },
+    {
+      "name": "LTRCRS-2109",
+      "description": "Cisco SD-Access Advanced Lab - LTRCRS-2109"
+    },
+    {
+      "name": "BRKCRS-2810",
+      "description": "Cisco SD-Access - A Look Under the Hood - BRKCRS-2810"
+    },
+    {
+      "name": "LTRACI-2636",
+      "description": "Cisco SD-Access and ACI Integration - hands on Lab - LTRACI-2636"
+    },
+    {
+      "name": "BRKCRS-2815",
+      "description": "Cisco  SD-Access - Connecting Multiple Sites in a Single Fabric Domain - BRKCRS-2815"
+    },
+    {
+      "name": "BRKCRS-2811",
+      "description": "Cisco SD-Access - Connecting the Fabric to External Networks - BRKCRS-2811"
+    },
+    {
+      "name": "BRKCRS-2821",
+      "description": "Cisco SD-Access - Connecting to the Data Center, Firewall, WAN and More ! - BRKCRS-2821"
+    },
+    {
+      "name": "TECCRS-3810",
+      "description": "Cisco SD-Access Design and Architecture Deep Dive - TECCRS-3810"
+    },
+    {
+      "name": "BRKCRS-2823",
+      "description": "Cisco SD-Access Firewall Integration  - BRKCRS-2823"
+    },
+    {
+      "name": "BRKCRS-2812",
+      "description": "Cisco SD-Access  Integrating with Your Existing Network - BRKCRS-2812"
+    },
+    {
+      "name": "BRKDCN-2489",
+      "description": "Cisco SD-Access - Integration with Data Center Architectures - BRKDCN-2489"
+    },
+    {
+      "name": "LTRCRS-1109",
+      "description": "Cisco SD-Access Introductory Lab  - LTRCRS-1109"
+    },
+    {
+      "name": "BRKCRS-2830",
+      "description": "Cisco SD-Access Lessons Learned from Design, Deployment Experience of Intent based Wired and Wireless Network - BRKCRS-2830"
+    },
+    {
+      "name": "BRKCRS-3811",
+      "description": "Cisco SD-Access - Policy Driven Manageability - BRKCRS-3811"
+    },
+    {
+      "name": "BRKCRS-2825",
+      "description": "Cisco SD-Access - Scaling the Fabric to Hundreds of Sites  - BRKCRS-2825"
+    },
+    {
+      "name": "BRKEWN-2020",
+      "description": "Cisco SD-Access Wireless Integration - BRKEWN-2020"
+    },
+    {
+      "name": "BRKRST-2558",
+      "description": "Cisco SD-WAN as a Managed Service - BRKRST-2558"
+    },
+    {
+      "name": "BRKRST-2096",
+      "description": "Cisco SD-WAN POC: Experiences and Best Practices - BRKRST-2096"
+    },
+    {
+      "name": "BRKCRS-1579",
+      "description": "Cisco SD-WAN powered by Meraki: A Closer Look - BRKCRS-1579"
+    },
+    {
+      "name": "LABCRS-2000",
+      "description": "Cisco SD-WAN Topics: Introduction to Next-Gen Routing with Centralized Policy - LABCRS-2000"
+    },
+    {
+      "name": "LABRST-1366",
+      "description": "Cisco SD-WAN - Use Cases Hands-on Lab - LABRST-1366"
+    },
+    {
+      "name": "BRKRST-2091",
+      "description": "Cisco SD-WAN (Viptela) Data Center and Branch Integration Design - BRKRST-2091"
+    },
+    {
+      "name": "TECCRS-2014",
+      "description": "Cisco SD-WAN (Viptela) - Technical Deep Dive - TECCRS-2014"
+    },
+    {
+      "name": "BRKSEC-3450",
+      "description": "Cisco Security Integrations in The Hive SOC Operations Tool - BRKSEC-3450"
+    },
+    {
+      "name": "BRKCRS-2901",
+      "description": "Cisco Silicon - The Importance of Hardware in a Software-Defined World - BRKCRS-2901"
+    },
+    {
+      "name": "PSOSEC-1900",
+      "description": "Cisco's platform approach for security - protecting what’s now and what’s next - PSOSEC-1900"
+    },
+    {
+      "name": "IMP-4941",
+      "description": "Cisco Tactical Operations Crisis Response - IMP-4941"
+    },
+    {
+      "name": "PSOSPM-1285",
+      "description": "Cisco Telco Cloud for mobility - PSOSPM-1285"
+    },
+    {
+      "name": "LABSEC-2602",
+      "description": "Cisco Threat Response(CTR) integration with Cisco Advanced Malware Protection (AMP) - LABSEC-2602"
+    },
+    {
+      "name": "LABDCN-2002",
+      "description": "Cisco UCS Central  Manage 10,000 UCS Servers in a Single Pane of Glass - LABDCN-2002"
+    },
+    {
+      "name": "DEVNET-1481",
+      "description": "Cisco UCS &amp; Cisco Intersight - Programmability  Automation &amp; Orchestration Overview - DEVNET-1481"
+    },
+    {
+      "name": "BRKDEV-2432",
+      "description": "Cisco UCS &amp; Cisco Intersight - Programmability  Automation &amp; Orchestration Overview - BRKDEV-2432"
+    },
+    {
+      "name": "BRKCOL-3224",
+      "description": "Cisco UC Security: Implementing and Troubleshooting Secure Voice on Network Edge Devices - BRKCOL-3224"
+    },
+    {
+      "name": "BRKINI-2012",
+      "description": "Cisco UCS Operational Agility and Best Practice - BRKINI-2012"
+    },
+    {
+      "name": "DEVNET-2562",
+      "description": "Cisco UCS PowerTool - Deploy at Scale - DEVNET-2562"
+    },
+    {
+      "name": "LABSEC-2504",
+      "description": "Cisco Umbrella (Open DNS) Lab - Advanced - LABSEC-2504"
+    },
+    {
+      "name": "TECUCC-3000",
+      "description": "Cisco Unified Communications Manager Serviceability and Troubleshooting - TECUCC-3000"
+    },
+    {
+      "name": "BRKCOL-1797",
+      "description": "Cisco Webex and GDPR - BRKCOL-1797"
+    },
+    {
+      "name": "BRKCOL-2792",
+      "description": "Cisco Webex Calling Design and Deployment - BRKCOL-2792"
+    },
+    {
+      "name": "BRKCOL-1793",
+      "description": "Cisco Webex Calling Overview - BRKCOL-1793"
+    },
+    {
+      "name": "LTRCOL-2100",
+      "description": "Cisco Webex Services Feature Deployment Lab Everything you need to know about deploying the latest Cisco Webex Services features - LTRCOL-2100"
+    },
+    {
+      "name": "DEVNET-1233",
+      "description": "Cloud 101: When it rains it pours; An 45-minute bootcamp to everything cloud - DEVNET-1233"
+    },
+    {
+      "name": "LABCOL-1000",
+      "description": "Cloud Collaboration: Introduction to Cisco Webex Contact Center - LABCOL-1000"
+    },
+    {
+      "name": "LABCOL-1003",
+      "description": "Cloud Collaboration: Introduction to reporting &amp; analytics in Webex Contact Center  - LABCOL-1003"
+    },
+    {
+      "name": "LABCCT-1362",
+      "description": "Cloud Collaboration: Omnichannel Routing with Cisco Webex Contact Center - LABCCT-1362"
+    },
+    {
+      "name": "LABCCT-1611",
+      "description": "Cloud Collaboration:  Webex Contact Center Plug and Play CRM Connectors - LABCCT-1611"
+    },
+    {
+      "name": "BRKSEC-2602",
+      "description": "Cloud Managed Security Architecture and Design - BRKSEC-2602"
+    },
+    {
+      "name": "BRKSEC-2998",
+      "description": "Cloud Managed Security &amp; SD-WAN from Cisco Meraki - BRKSEC-2998"
+    },
+    {
+      "name": "PSOSPG-2554",
+      "description": "Cloud Managed Services Opportunities - PSOSPG-2554"
+    },
+    {
+      "name": "BRKSEC-2034",
+      "description": "Cloud Management of Firepower and ASA with Cisco Defense Orchestrator - BRKSEC-2034"
+    },
+    {
+      "name": "BRKCRS-2113",
+      "description": "Cloud-Ready WAN for IAAS and SAAS with Cisco Next-Gen SD-WAN  - BRKCRS-2113"
+    },
+    {
+      "name": "TECCOL-3033",
+      "description": "Cloud Security unveiled -  all aspects of Network, Data-Security, Compliance and Data Leakage Prevention in Cisco Webex Meetings and Teams - TECCOL-3033"
+    },
+    {
+      "name": "INTENT-1515",
+      "description": "Cloud &amp; the Modern Workspace - INTENT-1515"
+    },
+    {
+      "name": "DEVNET-1897.d",
+      "description": "Coding 1001 - Intro to APIs and REST - DEVNET-1897.d"
+    },
+    {
+      "name": "DEVNET-1897.a",
+      "description": "Coding 1001 - Intro to APIs and REST - DEVNET-1897.a"
+    },
+    {
+      "name": "DEVNET-1897.c",
+      "description": "Coding 1001 - Intro to APIs and REST - DEVNET-1897.c"
+    },
+    {
+      "name": "DEVNET-1897.b",
+      "description": "Coding 1001 - Intro to APIs and REST - DEVNET-1897.b"
+    },
+    {
+      "name": "DEVNET-1893.a",
+      "description": "Coding 1002 - Getting Started with Python  - DEVNET-1893.a"
+    },
+    {
+      "name": "DEVNET-1893.b",
+      "description": "Coding 1002 - Getting Started with Python  - DEVNET-1893.b"
+    },
+    {
+      "name": "DEVNET-1893.d",
+      "description": "Coding 1002 - Getting Started with Python  - DEVNET-1893.d"
+    },
+    {
+      "name": "DEVNET-1893.c",
+      "description": "Coding 1002 - Getting Started with Python  - DEVNET-1893.c"
+    },
+    {
+      "name": "BRKCOL-1460",
+      "description": "Cognitive Collaboration AI and Machine Learning Assisted Collaboration - BRKCOL-1460"
+    },
+    {
+      "name": "PSOCOL-2818",
+      "description": "Cognitive Collaboration:  The future of work is here! - PSOCOL-2818"
+    },
+    {
+      "name": "BRKCOL-1015",
+      "description": "Collaboration and the Future of Work - it's 2020, now what? - BRKCOL-1015"
+    },
+    {
+      "name": "ADD-1006",
+      "description": "Collaboration Day for Customers - ADD-1006"
+    },
+    {
+      "name": "ADD-1007",
+      "description": "Collaboration Day for Partners  - ADD-1007"
+    },
+    {
+      "name": "INTAPP-1300",
+      "description": "Compete on User Experience and Win: Application Visibility and Business Insights from AppDynamics - INTAPP-1300"
+    },
+    {
+      "name": "LTRDCN-2380",
+      "description": "Configuration and Troubleshooting of Cisco Intersight with UCS - LTRDCN-2380"
+    },
+    {
+      "name": "LABSPG-2068.",
+      "description": "Configure and Implement BGP-EVPN with Segment Routing using IOS-XR - LABSPG-2068."
+    },
+    {
+      "name": "LTRSPG-2518",
+      "description": "Configuring and Implementing SD-WAN network using Cisco SD-WAN (Viptela) solution. - LTRSPG-2518"
+    },
+    {
+      "name": "LABCOL-1938",
+      "description": "Configuring B2B URI Dialing with CUCM and VCS Expressway - LABCOL-1938"
+    },
+    {
+      "name": "LABRST-2505",
+      "description": "Configuring End-to-End QoS with cEdge XE SD-WAN - LABRST-2505"
+    },
+    {
+      "name": "LTRSEC-1655",
+      "description": "Configuring ISE (Identity Service Engine) PIC (Passive Identity Connector) - LTRSEC-1655"
+    },
+    {
+      "name": "TECTOUR-1000",
+      "description": "Connected Cisco Store Technology Tour - TECTOUR-1000"
+    },
+    {
+      "name": "BRKIOT-2108",
+      "description": "Connected Factory Architecture Theory and Practice - BRKIOT-2108"
+    },
+    {
+      "name": "BRKRST-2097",
+      "description": "Conquer the Cloud with Cisco SDWAN! - BRKRST-2097"
+    },
+    {
+      "name": "TECCCT-3002",
+      "description": "Contact Center Enterprise Architecture &amp; Design Workshop - TECCCT-3002"
+    },
+    {
+      "name": "LTRCCT-2051",
+      "description": "Contact Center Enterprise End to End Voice Call Flow Troubleshooting and Configuration - LTRCCT-2051"
+    },
+    {
+      "name": "LABCCT-1046",
+      "description": "Contact Center Enterprise: Integration of CVP solution with Google Dialogflow - LABCCT-1046"
+    },
+    {
+      "name": "BRKCCT-2352",
+      "description": "Contact Center Enterprise Solution Troubleshooting - BRKCCT-2352"
+    },
+    {
+      "name": "BRKCCT-1814",
+      "description": "Contact Centre Solutions Update  - BRKCCT-1814"
+    },
+    {
+      "name": "LTRCLD-2948",
+      "description": "Containerized applications on hybrid cloud environments: learn about policy-based security, orchestration and lifecycle management - LTRCLD-2948"
+    },
+    {
+      "name": "BRKCLD-3181",
+      "description": "Container Networking Deep Dive - BRKCLD-3181"
+    },
+    {
+      "name": "PSO-2781",
+      "description": "Containers as a Service for Cisco HyperFlex and Intersight - Hypervisor Agnostic IaaS  and Lower TCO - PSO-2781"
+    },
+    {
+      "name": "BRKDEV-3326",
+      "description": "Continuous Integration and Testing for SD-WAN with Ansible - BRKDEV-3326"
+    },
+    {
+      "name": "BRKSDN-2295",
+      "description": "Controlling the wild wild west of applications in your network using Cisco DNAC QoS Policies - BRKSDN-2295"
+    },
+    {
+      "name": "PAR-1998",
+      "description": "Converged Infrastructure for Hybrid-Cloud Operations in Your Data Center - PAR-1998"
+    },
+    {
+      "name": "BRKOPT-2405",
+      "description": "Converging IP and Optical Networks - BRKOPT-2405"
+    },
+    {
+      "name": "TCRDCN-2900",
+      "description": "Cost Control in a Multicloud World - TCRDCN-2900"
+    },
+    {
+      "name": "DEVNET-1461",
+      "description": "Create compelling collaboration workflows with the latest Webex Teams SDK features - DEVNET-1461"
+    },
+    {
+      "name": "BRKCRS-2819",
+      "description": "Creating a multi-domain architecture using Cisco SD-Access, ISE, ETA, Firepower and ACI - BRKCRS-2819"
+    },
+    {
+      "name": "DEVNET-4016",
+      "description": "Creating a virtuous cycle of running code across your APIs - DEVNET-4016"
+    },
+    {
+      "name": "BRKNMS-2733",
+      "description": "Cross-domain Orchestration with NSO &amp; Ansible using Business Process Automation - BRKNMS-2733"
+    },
+    {
+      "name": "BRKSEC-3005",
+      "description": "Cryptographic Protocols and Algorithms - a review - BRKSEC-3005"
+    },
+    {
+      "name": "IMP-4491",
+      "description": "CSR 2.0 Social Impact Social Profit - IMP-4491"
+    },
+    {
+      "name": "LTRCCT-1050",
+      "description": "Customer Journey Platform Technical deep dive with instructor led workshop - LTRCCT-1050"
+    },
+    {
+      "name": "BRKCOL-3008",
+      "description": "Customization and Integrations of Cisco Video Room Devices - BRKCOL-3008"
+    },
+    {
+      "name": "DEVNET-2071",
+      "description": "Customizing Cisco Collaboration Devices  - DEVNET-2071"
+    },
+    {
+      "name": "DEVNET-2463",
+      "description": "Cutting edge collaboration apps with Webex Teams APIs - latest features - DEVNET-2463"
+    },
+    {
+      "name": "TECSEC-2005",
+      "description": "CyberSecurity - A Cat and Mouse Game ! - TECSEC-2005"
+    },
+    {
+      "name": "LTRSEC-2020",
+      "description": "Cyber Threat Response: The Hunt is on. - LTRSEC-2020"
+    },
+    {
+      "name": "DEVLIT-4029",
+      "description": "Dashboard what matters, create beautiful dashboards with Grafana. - DEVLIT-4029"
+    },
+    {
+      "name": "BRKDCN-2219",
+      "description": "Data Center Design for Media and Entertainment Networks - BRKDCN-2219"
+    },
+    {
+      "name": "BRKDCN-2218",
+      "description": "Data Center Design for the Midsize Enterprise - BRKDCN-2218"
+    },
+    {
+      "name": "ADD-1004",
+      "description": "Data Center Discovery Day for Partners - ADD-1004"
+    },
+    {
+      "name": "BRKOPS-2562",
+      "description": "Data is the new Oil: The Nuts &amp; Bolts of leveraging Cisco DNA Assurance data for creating value added services - BRKOPS-2562"
+    },
+    {
+      "name": "BRKDCN-2712",
+      "description": "Day-2 Telemetry better - Network Insights for ACI/NX-OS - BRKDCN-2712"
+    },
+    {
+      "name": "BRKGEN-1030",
+      "description": "dCloud Deconstructed Inside the Worlds Premier Demonstration Platform - BRKGEN-1030"
+    },
+    {
+      "name": "BRKSEC-2663",
+      "description": "DDoS Mitigation: Introducing Radware Deployment on Firepower Appliances - BRKSEC-2663"
+    },
+    {
+      "name": "DEVLIT-4015",
+      "description": "Deciding What to Automate in AIOps - DEVLIT-4015"
+    },
+    {
+      "name": "DEVNET-2658",
+      "description": "Decision trees in Machine learning or why is my server going down? - DEVNET-2658"
+    },
+    {
+      "name": "BRKSEC-3063",
+      "description": "Decrypting the Internet with Firepower! - BRKSEC-3063"
+    },
+    {
+      "name": "TECCLD-2107",
+      "description": "Deep dive into Secure Agile Exchange - Design, Deploy and Debug your Secure Multicloud Access using Automation and Assurance - TECCLD-2107"
+    },
+    {
+      "name": "LTRSEC-3001",
+      "description": "Deep Dive Lab on ASA, FTD, and Firepower in ACI - LTRSEC-3001"
+    },
+    {
+      "name": "BRKACI-3004",
+      "description": "Deep Dive on Cisco Security in ACI - BRKACI-3004"
+    },
+    {
+      "name": "LTRSEC-2188",
+      "description": "Defend your Data Center with Tetration Advanced Security - LTRSEC-2188"
+    },
+    {
+      "name": "PAR-2311",
+      "description": "Delivering a new kind of experience with Cisco SD-WAN - PAR-2311"
+    },
+    {
+      "name": "BRKCRS-2104",
+      "description": "Delivering an Intent Based Network with Cisco Meraki - BRKCRS-2104"
+    },
+    {
+      "name": "BRKCRS-2110",
+      "description": "Delivering Cisco Next Generation SD-WAN with Viptela - BRKCRS-2110"
+    },
+    {
+      "name": "PSOEN-2310",
+      "description": "Demo of CX Portals - PSOEN-2310"
+    },
+    {
+      "name": "BRKSEC-2048",
+      "description": "Demystifying ACI Security - BRKSEC-2048"
+    },
+    {
+      "name": "DEVNET-1380",
+      "description": "Demystifying Cisco SD-WAN(Viptela) APIs to operate Fabric Smoothly: - DEVNET-1380"
+    },
+    {
+      "name": "BRKCOL-2762",
+      "description": "Demystifying Cisco UCM Cloud, A Brand-new Offer in Cisco’s Cloud Calling Portfolio - BRKCOL-2762"
+    },
+    {
+      "name": "BRKRST-2820",
+      "description": "Demystifying IP Multicast in SD-Access - BRKRST-2820"
+    },
+    {
+      "name": "LABRST-2483",
+      "description": "Demystifying Smart Licensing configuration and troubleshooting - LABRST-2483"
+    },
+    {
+      "name": "LABCOL-2118",
+      "description": "Demystifying Tools for Troubleshooting VoIP issues in an Enterprise Environment - LABCOL-2118"
+    },
+    {
+      "name": "BRKSEC-3016",
+      "description": "Demystifying Zero Trust - What does it really mean? How do you achieve it with Cisco and Duo Security?  - BRKSEC-3016"
+    },
+    {
+      "name": "BRKOPS-2150",
+      "description": "Deploying Advanced network Services using Cisco DNA Center - BRKOPS-2150"
+    },
+    {
+      "name": "BRKCOL-3672",
+      "description": "Deploying and troubleshooting call recording infrastructure - BRKCOL-3672"
+    },
+    {
+      "name": "BRKSEC-2348",
+      "description": "Deploying AnyConnect with Firepower Threat Defense with posture and MFA - BRKSEC-2348"
+    },
+    {
+      "name": "LABCLD-2903",
+      "description": "Deploying Cisco Meraki at the Branch - LABCLD-2903"
+    },
+    {
+      "name": "BRKACI-2505",
+      "description": "Deploying Kubernetes with Cisco ACI - BRKACI-2505"
+    },
+    {
+      "name": "LABCOL-1187",
+      "description": "Deploying Local Gateway for Webex Calling - LABCOL-1187"
+    },
+    {
+      "name": "BRKCOL-2010",
+      "description": "Deploying WebEx in Enterprise Networks - BRKCOL-2010"
+    },
+    {
+      "name": "LTRSEC-3052",
+      "description": "Deploy NGFWv &amp; ASAv in Public Cloud (AWS &amp; Azure) - LTRSEC-3052"
+    },
+    {
+      "name": "TECEWN-2005",
+      "description": "Design and deployment of Cisco Catalyst 9800 Wireless Controller - TECEWN-2005"
+    },
+    {
+      "name": "BRKEWN-2027",
+      "description": "Design and Deployment of Outdoor Wireless Networks - BRKEWN-2027"
+    },
+    {
+      "name": "BRKEWN-2016",
+      "description": "Design and Deployment of Wireless for Branch and Remote Offices - BRKEWN-2016"
+    },
+    {
+      "name": "BRKEWN-2012",
+      "description": "Design and Use Cases of a location enabled Wi-Fi network, supported by Cisco DNA Spaces - BRKEWN-2012"
+    },
+    {
+      "name": "BRKACI-2387",
+      "description": "Design for a distributed Data Center environment with Ciscos ACI Remote Leaf - BRKACI-2387"
+    },
+    {
+      "name": "TECRST-2001",
+      "description": "Designing and deploying a secure IPv6 network - TECRST-2001"
+    },
+    {
+      "name": "BRKCCT-2004",
+      "description": "Designing Cloud &amp; Hybrid Contact Centers with Webex Contact Center - BRKCCT-2004"
+    },
+    {
+      "name": "TECCRS-2001",
+      "description": "Designing for High Availability Switching and Wireless in Your Campus LAN - TECCRS-2001"
+    },
+    {
+      "name": "BRKSEC-3629",
+      "description": "Designing IPSec VPNs with Firepower Threat Defense integration for Scale and High Availability - BRKSEC-3629"
+    },
+    {
+      "name": "PSOSEC-4902",
+      "description": "Designing security for the future of your network with Cisco Umbrella - PSOSEC-4902"
+    },
+    {
+      "name": "DEVNET-4099",
+      "description": "DevNet Certifications: Bringing Software Practices and Software Skills to Networking  - DEVNET-4099"
+    },
+    {
+      "name": "DEVNET-2805",
+      "description": "DevNet Panel - Building a Network Automation Practice - DEVNET-2805"
+    },
+    {
+      "name": "DEVNET-1048",
+      "description": "DevNet Panel - Design Strategy and Innovation at Cisco - DEVNET-1048"
+    },
+    {
+      "name": "DEVNET-2863",
+      "description": "DevNet Partner Panel: How We Automate Together - DEVNET-2863"
+    },
+    {
+      "name": "DEVNET-3002",
+      "description": "DevNet Partner Power Hour @ CLEUR - DEVNET-3002"
+    },
+    {
+      "name": "DEVWKS-1531",
+      "description": "DevNet Workshop: Achieving Clarity leveraging a collector to visualize network information with a mixture of devices - DEVWKS-1531"
+    },
+    {
+      "name": "DEVWKS-1309",
+      "description": "DevNet Workshop: ACI Programmability:   Cisco IT DCN Automation with Ansible and Python - DEVWKS-1309"
+    },
+    {
+      "name": "DEVWKS-2690",
+      "description": "DevNet Workshop: ACI Telemetry REST APIs - DEVWKS-2690"
+    },
+    {
+      "name": "DEVWKS-2637",
+      "description": "DevNet Workshop: A Cloud Security RESTful Hunt  - DEVWKS-2637"
+    },
+    {
+      "name": "DEVWKS-1420",
+      "description": "DevNet Workshop: An Overview of Security Labs in the DevNet Sandbox - DEVWKS-1420"
+    },
+    {
+      "name": "DEVWKS-1444",
+      "description": "DevNet Workshop: API driven closed-loop remediation with Crosswork Health Insights and Change Automation - DEVWKS-1444"
+    },
+    {
+      "name": "DEVWKS-2327",
+      "description": "DevNet Workshop: Automate IOS-XR Zero Touch Provisioning  - DEVWKS-2327"
+    },
+    {
+      "name": "DEVWKS-2232",
+      "description": "DevNet Workshop: Automate your ACI Multisite using its APIs  - DEVWKS-2232"
+    },
+    {
+      "name": "DEVWKS-1020",
+      "description": "DevNet Workshop - Automating Analysis And Resolution Of Data Center Network Issues With Cisco Network Assurance Engine (Candid) APIs - DEVWKS-1020"
+    },
+    {
+      "name": "DEVWKS-2645",
+      "description": "DevNet Workshop: Automating Bulk Operations with the FTD-API - DEVWKS-2645"
+    },
+    {
+      "name": "DEVWKS-2128",
+      "description": "DevNet Workshop: Automating IOS XE Campus infrastructure with Ansible - Intermediate - DEVWKS-2128"
+    },
+    {
+      "name": "DEVWKS-2312",
+      "description": "DevNet Workshop: Automating Services with Cisco NSO and Model-Driven Telemetry - DEVWKS-2312"
+    },
+    {
+      "name": "DEVWKS-1512",
+      "description": "DevNet Workshop: Becoming the Jinja Ninja: Using YAML and Jinja Templates to Create Reusable Code - DEVWKS-1512"
+    },
+    {
+      "name": "DEVWKS-3273",
+      "description": "DevNet Workshop: Building browser applications in JavaScript with the Webex Teams SDK - DEVWKS-3273"
+    },
+    {
+      "name": "DEVWKS-1557",
+      "description": "DevNet Workshop: Building IoT applications through a CICD pipeline - DEVWKS-1557"
+    },
+    {
+      "name": "DEVWKS-1644",
+      "description": "DevNet Workshop: Building IP Core Network with OpenConfig - DEVWKS-1644"
+    },
+    {
+      "name": "DEVWKS-2641",
+      "description": "DevNet Workshop: Cisco Defense Orchestrator APIs - DEVWKS-2641"
+    },
+    {
+      "name": "DEVWKS-1474",
+      "description": "DevNet Workshop: Cisco Intersight REST API Introduction - Postman - Python - DEVWKS-1474"
+    },
+    {
+      "name": "DEVWKS-2840",
+      "description": "DevNet Workshop: ConfigMon - Configuration Monitoring and Compliance using Cisco DNA Center - DEVWKS-2840"
+    },
+    {
+      "name": "DEVWKS-2986",
+      "description": "DevNet Workshop: Deploy and Manage Microservice-based Applications across Multicloud - DEVWKS-2986"
+    },
+    {
+      "name": "DEVWKS-2390",
+      "description": "DevNet Workshop: Develop your own NX-OS features using NX-SDK - DEVWKS-2390"
+    },
+    {
+      "name": "DEVWKS-2501",
+      "description": "DevNet Workshop: Experiment with Adaptive Cards for Webex Teams - DEVWKS-2501"
+    },
+    {
+      "name": "DEVWKS-1195",
+      "description": "DevNet Workshop: From CLI Hero to API Superhero: Manage and Automate ACI L2-L7 Infrastructure-as-Code - DEVWKS-1195"
+    },
+    {
+      "name": "DEVWKS-3533",
+      "description": "DevNet Workshop: From code to a deployed application in your datacenter - DEVWKS-3533"
+    },
+    {
+      "name": "DEVWKS-1389",
+      "description": "DevNet Workshop: From Zero to Model-Driven Telemetry Hero - DEVWKS-1389"
+    },
+    {
+      "name": "DEVWKS-3480",
+      "description": "DevNet Workshop: GPU Accelerated Data Science on Cisco UCS, Hyperflex - DEVWKS-3480"
+    },
+    {
+      "name": "DEVWKS-2561",
+      "description": "DevNet Workshop: Hands-on Exploration of NETCONF and YANG - DEVWKS-2561"
+    },
+    {
+      "name": "DEVWKS-2879",
+      "description": "DevNet Workshop: Hands on with Cisco DNA Center as a Platform - DEVWKS-2879"
+    },
+    {
+      "name": "DEVWKS-2878",
+      "description": "DevNet Workshop: Hands on with Cisco DNA Center assurance APIs - DEVWKS-2878"
+    },
+    {
+      "name": "DEVWKS-1069",
+      "description": "DevNet Workshop-Infrastructure as Code 1001 - Network Provisioning, Management, and Monitoring with Meraki Dashboard API - DEVWKS-1069"
+    },
+    {
+      "name": "DEVWKS-1110",
+      "description": "DevNet Workshop: Infrastructure as Code 1002 - Building, Configuring and Deploying WiFi Engagement Captive Portals with Meraki - DEVWKS-1110"
+    },
+    {
+      "name": "DEVWKS-2490",
+      "description": "DevNet Workshop: Integrate and automate apps and workflows with the Webex Meetings APIs - DEVWKS-2490"
+    },
+    {
+      "name": "DEVWKS-1542",
+      "description": "DevNet Workshop: Intersight Automation and Monitoring with Ansible - DEVWKS-1542"
+    },
+    {
+      "name": "DEVWKS-1500",
+      "description": "DevNet Workshop: Introduction to Automating Cisco ACI with Ansible - DEVWKS-1500"
+    },
+    {
+      "name": "DEVWKS-1139",
+      "description": "DevNet Workshop: Introduction to Cloud Center API - DEVWKS-1139"
+    },
+    {
+      "name": "DEVWKS-2643",
+      "description": "DevNet Workshop: Introduction to programming the Firepower Threat Defense  through Ansible - DEVWKS-2643"
+    },
+    {
+      "name": "DEVWKS-1381",
+      "description": "DevNet Workshop: Introduction to Using gRPC-based Protocol for Model-Driven Management of IOS-XR - DEVWKS-1381"
+    },
+    {
+      "name": "DEVWKS-1080",
+      "description": "DevNet Workshop: Intro to GIT - Hands on  - DEVWKS-1080"
+    },
+    {
+      "name": "DEVWKS-2814",
+      "description": "DevNet Workshop: Let's Play with Istio: service meshes for high-scale container environments - DEVWKS-2814"
+    },
+    {
+      "name": "DEVWKS-2594",
+      "description": "DevNet Workshop: Leveraging NX-APIs for Customized Operational Analytics - DEVWKS-2594"
+    },
+    {
+      "name": "DEVWKS-1897",
+      "description": "DevNet Workshop: Machine Learning: Training DNN to watch my network! - DEVWKS-1897"
+    },
+    {
+      "name": "DEVWKS-2060",
+      "description": "DevNet Workshop: Managing Cisco UCS with the Python SDK - DEVWKS-2060"
+    },
+    {
+      "name": "DEVWKS-2308",
+      "description": "DevNet Workshop: Netconf Model Based AAA - DEVWKS-2308"
+    },
+    {
+      "name": "DEVWKS-1002",
+      "description": "DevNet Workshop - NetDevOps for Network Peeps - How to get started with APIs and Ansible. - DEVWKS-1002"
+    },
+    {
+      "name": "DEVWKS-2808",
+      "description": "DevNet Workshop: NetDevOps programming with pyATS/Genie for beginners - DEVWKS-2808"
+    },
+    {
+      "name": "DEVWKS-2595",
+      "description": "DevNet Workshop: Network Verification with pyATS/Genie for non-programmers - DEVWKS-2595"
+    },
+    {
+      "name": "DEVWKS-2626",
+      "description": "DevNet Workshop: NX-OS and Ansible for Simple, Scalable, and Powerful Network Automation - DEVWKS-2626"
+    },
+    {
+      "name": "DEVWKS-1545",
+      "description": "DevNet Workshop: Operationalizing Stealthwatch Enterprise with API Capabilities - DEVWKS-1545"
+    },
+    {
+      "name": "DEVWKS-2601",
+      "description": "DevNet Workshop: pyATS Intro - creating parsers with GENIE - DEVWKS-2601"
+    },
+    {
+      "name": "DEVWKS-2725",
+      "description": "DevNet Workshop: Pythonic Cisco DNA Center: Automate the Next-gen Network - DEVWKS-2725"
+    },
+    {
+      "name": "DEVWKS-1111.a",
+      "description": "DevNet Workshop: Raw Ideas to Execution - Cisco Design Thinking - DEVWKS-1111.a"
+    },
+    {
+      "name": "DEVWKS-1111.b",
+      "description": "DevNet Workshop: Raw Ideas to Execution - Cisco Design Thinking - DEVWKS-1111.b"
+    },
+    {
+      "name": "DEVWKS-2226",
+      "description": "DevNet Workshop: SD-WAN DevOps Step 1: Automating Test Environments - DEVWKS-2226"
+    },
+    {
+      "name": "DEVWKS-2028",
+      "description": "DevNet Workshop: SD-WAN DevOps Step 2: Automating Day 1 &amp; Day 2 Configuration/Operations - DEVWKS-2028"
+    },
+    {
+      "name": "DEVWKS-2030",
+      "description": "DevNet Workshop: SD-WAN DevOps Step 3: Continuous Integration/Continuous Deployment - DEVWKS-2030"
+    },
+    {
+      "name": "DEVWKS-3484",
+      "description": "DevNet Workshop: SD-WAN DevOps Step 4: Monitoring and Analytics - DEVWKS-3484"
+    },
+    {
+      "name": "DEVWKS-3534",
+      "description": "DevNet Workshop: Setting the mood with Webex Room Kit - DEVWKS-3534"
+    },
+    {
+      "name": "DEVWKS-2280",
+      "description": "DevNet Workshop: Splunk+Firepower: Best practices to visualize and operationalize security events using APIs - DEVWKS-2280"
+    },
+    {
+      "name": "DEVWKS-2624",
+      "description": "DevNet Workshop: Streaming Telemetry with NX-OS - DEVWKS-2624"
+    },
+    {
+      "name": "DEVWKS-2061",
+      "description": "DevNet Workshop: UCS PowerTool Suite - Secrets, Tips and Tricks - DEVWKS-2061"
+    },
+    {
+      "name": "DEVWKS-2332",
+      "description": "DevNet Workshop: Understand gNMI and how to build your first gNMI client with Python to interwork with IOS-XR - DEVWKS-2332"
+    },
+    {
+      "name": "DEVWKS-2336",
+      "description": "DevNet Workshop: Understand NETCONF/YANG and build your first NETCONF client with Python to interwork with IOS-XR - DEVWKS-2336"
+    },
+    {
+      "name": "DEVWKS-3535",
+      "description": "DevNet Workshop: Using Ansible REST with Cisco ACI - DEVWKS-3535"
+    },
+    {
+      "name": "DEVWKS-2906",
+      "description": "DevNet Workshop: Using network programmability and streaming telemetry with Segment Routing Traffic Engineering (SRTE) - DEVWKS-2906"
+    },
+    {
+      "name": "DEVWKS-1407",
+      "description": "DevNet Workshop: Utilizing Cisco CXTA service framework to validate network elements - DEVWKS-1407"
+    },
+    {
+      "name": "DEVLIT-4007",
+      "description": "DevOps, but Why? - DEVLIT-4007"
+    },
+    {
+      "name": "DEVLIT-4024",
+      "description": "DevOps, SecOps and NetOps all playing nicely. - DEVLIT-4024"
+    },
+    {
+      "name": "BRKCLD-2826",
+      "description": "DevOps with CloudCenter and Kubernetes in a multicloud environment - BRKCLD-2826"
+    },
+    {
+      "name": "IMP-4314",
+      "description": "Digital Balance - How to Embrace Technology and Thrive - IMP-4314"
+    },
+    {
+      "name": "BRKIOT-2003",
+      "description": "Digital Building Theory &amp; Practice - BRKIOT-2003"
+    },
+    {
+      "name": "INTDCN-1815",
+      "description": "Digital Transformation: Application Deployment, Infrastructure Automation and Assurance - INTDCN-1815"
+    },
+    {
+      "name": "PAR-4688",
+      "description": "Discover how to reduce your UC management processes by up to 80% - PAR-4688"
+    },
+    {
+      "name": "BRKSEC-3455",
+      "description": "Dissecting Firepower NGFW: Architecture and Troubleshooting - BRKSEC-3455"
+    },
+    {
+      "name": "DEVNET-2275",
+      "description": "DNA Center API Use Case - Automating SDA Deployment Tasks - DEVNET-2275"
+    },
+    {
+      "name": "LABOPS-1302",
+      "description": "DNAC with software and image management (SWIM) - LABOPS-1302"
+    },
+    {
+      "name": "DEVNET-1712",
+      "description": "Docker+VM+LXC = IOx? - DEVNET-1712"
+    },
+    {
+      "name": "DEVLIT-4009",
+      "description": "Does Quantum Entanglement Mean No More Networks? - DEVLIT-4009"
+    },
+    {
+      "name": "BRKSEC-3500",
+      "description": "DoT and DoH: Innovations in DNS Security - BRKSEC-3500"
+    },
+    {
+      "name": "INTGEN-1400",
+      "description": "Driving from Purchase to Ultimate Business Value Together - INTGEN-1400"
+    },
+    {
+      "name": "DEVLIT-4041",
+      "description": "Duo+Cisco: All Things Together! - DEVLIT-4041"
+    },
+    {
+      "name": "BRKDCN-2939",
+      "description": "Easy deployment and management of NXOS Fabrics ( VXLAN ) with DCNM  - BRKDCN-2939"
+    },
+    {
+      "name": "DEVLIT-4021",
+      "description": "Edge Compute -What's behind the hype - DEVLIT-4021"
+    },
+    {
+      "name": "PAR-1394",
+      "description": "Edge Computing: The Application Traffic Delivery Game-Changer - PAR-1394"
+    },
+    {
+      "name": "PAR-2390",
+      "description": "Edge to Cloud File Services with Cisco Hyperflex &amp; CTERA - PAR-2390"
+    },
+    {
+      "name": "BRKDEV-1368",
+      "description": "Effectively Understand and Leverage YANG with NETCONF and RESTCONF for Model Driven Programmability  - BRKDEV-1368"
+    },
+    {
+      "name": "INTSMB-1100",
+      "description": "Empowering Small Business to Connect, Compute and Collaborate Securely with Cisco Designed - INTSMB-1100"
+    },
+    {
+      "name": "CSSGEN-5003",
+      "description": "Empowering smart buildings through Cisco DNA Spaces and MazeMap for ATEA's HQ in Norway - CSSGEN-5003"
+    },
+    {
+      "name": "INTCOM-1415",
+      "description": "Empowering your IT teams to deliver in a hybrid application world - INTCOM-1415"
+    },
+    {
+      "name": "PAR-4991",
+      "description": "Enabling AIOps in the Cisco Powered Data Center - PAR-4991"
+    },
+    {
+      "name": "LABIPM-2004",
+      "description": "Enabling and Understanding Multicast in SDA Fabric - LABIPM-2004"
+    },
+    {
+      "name": "BRKUCC-2801",
+      "description": "Enabling External Collaboration with Expressway - BRKUCC-2801"
+    },
+    {
+      "name": "BRKIOT-2600",
+      "description": "Enabling OT-IT collaboration by transforming traditional industrial networks to modern  IoT Architectures - BRKIOT-2600"
+    },
+    {
+      "name": "BRKUCC-3001",
+      "description": "Enabling Seamless Collaboration with Advanced Session Routing Architectures and Webex - BRKUCC-3001"
+    },
+    {
+      "name": "BRKCOL-2125",
+      "description": "Enabling SIP Trunking for premise and cloud based collaboration deployments - BRKCOL-2125"
+    },
+    {
+      "name": "BRKCOL-2023",
+      "description": "Enabling Workspace Transformation - BRKCOL-2023"
+    },
+    {
+      "name": "BRKOPS-2110",
+      "description": "End-2-end policy from the Campus to the DC and back, a packet journey with SDA to ACI - BRKOPS-2110"
+    },
+    {
+      "name": "BRKDCN-3346",
+      "description": "End-to-End QoS Implementation and Operation with Cisco Nexus Switches - BRKDCN-3346"
+    },
+    {
+      "name": "LABCCT-2184",
+      "description": "End to end security for your UCCX solution with SRTP and Secure JTAPI - LABCCT-2184"
+    },
+    {
+      "name": "PSO-2966",
+      "description": "Engineering Privacy By Design: A Webex Case Study on Privacy &amp; Facial recognition &amp; Other Personalized Innovations - PSO-2966"
+    },
+    {
+      "name": "LABIOT-1423",
+      "description": "Enhanced Network Edge with SDWAN in IoT - LABIOT-1423"
+    },
+    {
+      "name": "PSOIOT-2155",
+      "description": "Enhancing the Commuter Experience - Service Provider WiFi at the speed of Trains - PSOIOT-2155"
+    },
+    {
+      "name": "BRKCRS-2031",
+      "description": "Enterprise Campus Design: Multilayer Architectures and Design Principles - BRKCRS-2031"
+    },
+    {
+      "name": "BRKRST-2044",
+      "description": "Enterprise Multi-Homed Internet Edge Architectures - BRKRST-2044"
+    },
+    {
+      "name": "BRKARC-2012",
+      "description": "Enterprise Network Functions Virtualization (ENFV) Architecture, Configuration and Troubleshooting - BRKARC-2012"
+    },
+    {
+      "name": "BRKCRS-2650",
+      "description": "Enterprise Network Next Generation High Availability - BRKCRS-2650"
+    },
+    {
+      "name": "LABSPG-2109",
+      "description": "Ethernet VPN (EVPN) Implementation and Troubleshooting - LABSPG-2109"
+    },
+    {
+      "name": "PSOCOL-2002",
+      "description": "Evolution of Hosted Collaboration Solution (HCS) - New Enhancements and Integrations - PSOCOL-2002"
+    },
+    {
+      "name": "BRKSPG-3965",
+      "description": "EVPN Deep Dive with IOS-XR Configuration examples for Service Provider Metro and Data Center - BRKSPG-3965"
+    },
+    {
+      "name": "BRKSPG-2798",
+      "description": "EVPN troubleshooting and debugging - BRKSPG-2798"
+    },
+    {
+      "name": "BRKOPS-2695",
+      "description": "Expand your automation journey with new Cisco NSO usecases and features - BRKOPS-2695"
+    },
+    {
+      "name": "LABRST-2405",
+      "description": "Expand your Tool Belt with TAC knowledge through the Cisco CLI Analyzer - LABRST-2405"
+    },
+    {
+      "name": "DEVNET-4176",
+      "description": "Explore DevNet Partner Specializations - DEVNET-4176"
+    },
+    {
+      "name": "DEVNET-3603",
+      "description": "Explore the Programmability Options of Cisco DNA Center for Managing Network Intent - DEVNET-3603"
+    },
+    {
+      "name": "DEVNET-2877",
+      "description": "Exploring Cisco DNA Center as a Platform - DEVNET-2877"
+    },
+    {
+      "name": "DEVNET-1205",
+      "description": "Exploring the possibilities of Webex collaboration programmability - DEVNET-1205"
+    },
+    {
+      "name": "BRKCRS-2832",
+      "description": "Extending Cisco SD-Access beyond Enterprise walls - BRKCRS-2832"
+    },
+    {
+      "name": "BRKCOL-2175",
+      "description": "Extending the Collaboration Eco-System using Webex Teams APIs for Non-Developers - BRKCOL-2175"
+    },
+    {
+      "name": "TECACI-2509",
+      "description": "Extending your datacenter policies into the cloud with Cisco ACI Anywhere - TECACI-2509"
+    },
+    {
+      "name": "LABCCT-1186",
+      "description": "Finesse 12.5 new features for Contact Center Express - LABCCT-1186"
+    },
+    {
+      "name": "LTRSEC-3460",
+      "description": "Firepower Data-Path troubleshooting (A practical hands on lab) - LTRSEC-3460"
+    },
+    {
+      "name": "BRKSEC-3032",
+      "description": "Firepower NGFW Clustering Deep Dive - BRKSEC-3032"
+    },
+    {
+      "name": "BRKSEC-2020",
+      "description": "Firepower NGFW in the DC and Enterprise - Deployment Tips and New Features - BRKSEC-2020"
+    },
+    {
+      "name": "BRKSEC-3328",
+      "description": "Firepower NGFW Management: Making Firepower Management Center (FMC) Do More - BRKSEC-3328"
+    },
+    {
+      "name": "BRKSEC-3035",
+      "description": "Firepower Platforms Deep Dive - BRKSEC-3035"
+    },
+    {
+      "name": "LABSEC-4490",
+      "description": "Firepower v6.5 and DUO Integration : Configuring and Troubleshooting DUO for Cisco AnyConnect VPN with Firepower Device Manager (FDM) - LABSEC-4490"
+    },
+    {
+      "name": "BRKSEC-3265",
+      "description": "Fixing Email! - Cisco Email Security Advanced Troubleshooting - BRKSEC-3265"
+    },
+    {
+      "name": "BRKNMS-2573",
+      "description": "From Prime Infrastructure to Software Defined Network (SDN) Management with Cisco DNA Center - BRKNMS-2573"
+    },
+    {
+      "name": "PSODCN-2118",
+      "description": "From Reactive to Proactive NetOps with Cisco Data Center Network Assurance and Insights: The Power of Day 2 AI Ops - PSODCN-2118"
+    },
+    {
+      "name": "TECSEC-2310",
+      "description": "From Zero to DMARC Hero - TECSEC-2310"
+    },
+    {
+      "name": "BRKIOT-2213",
+      "description": "From Zero to IOx Hero - BRKIOT-2213"
+    },
+    {
+      "name": "PAR-2034",
+      "description": "Future of Software: Next-Gen Development &amp; DevOps - PAR-2034"
+    },
+    {
+      "name": "DEVNET-2043",
+      "description": "Get Salty! Start with one of the most popular config management tool - Salt. - DEVNET-2043"
+    },
+    {
+      "name": "DEVNET-4805",
+      "description": "Get Started Automating Your Network with Cisco NSO - DEVNET-4805"
+    },
+    {
+      "name": "DEVLIT-4013",
+      "description": "Get Started with Cisco DNA Center APIs - DEVLIT-4013"
+    },
+    {
+      "name": "DEVNET-2864",
+      "description": "Getting ready for Cisco DevNet Certifications - DEVNET-2864"
+    },
+    {
+      "name": "LTRCCT-2565",
+      "description": "Getting Started: Finesse Desktop Customization and 3rdpartyGadgets - LTRCCT-2565"
+    },
+    {
+      "name": "TECNMS-2900",
+      "description": "Getting Started with Cisco DNA Center - TECNMS-2900"
+    },
+    {
+      "name": "DEVLIT-4025",
+      "description": "Getting the Skill Mix Right for the 20’s - DEVLIT-4025"
+    },
+    {
+      "name": "DEVNET-2315",
+      "description": "GitHub and Continuous Integration (CI) for Python Network Developers - DEVNET-2315"
+    },
+    {
+      "name": "IMP-4328",
+      "description": "Global Giving Back in Brazil  - IMP-4328"
+    },
+    {
+      "name": "KEY-1002",
+      "description": "Guest Keynote - KEY-1002"
+    },
+    {
+      "name": "LTRSEC-3300",
+      "description": "Hacking in the Attack Kill Chain v2 - LTRSEC-3300"
+    },
+    {
+      "name": "LABCOL-1608",
+      "description": "Hands on - Calling in WebEx Teams (Unified CM) - LABCOL-1608"
+    },
+    {
+      "name": "LTRCRS-2123",
+      "description": "Hands-on Lab SDWAN (Viptela) on Hybrid Cloud deployment - LTRCRS-2123"
+    },
+    {
+      "name": "LTRSEC-2010",
+      "description": "Hands-on lab - What's new in Cisco Umbrella's Secure Internet Gateway (SIG) - LTRSEC-2010"
+    },
+    {
+      "name": "LABOPS-1985",
+      "description": "Hands-on Model Driven Telemetry on IOS-XR - LABOPS-1985"
+    },
+    {
+      "name": "DEVNET-2425",
+      "description": "Hands-on Scaling Common Cisco DNA Center tasks via API - DEVNET-2425"
+    },
+    {
+      "name": "LTREWN-2030",
+      "description": "Hands-on Solutions Lab on Catalyst Wireless 9800 Controllers  - LTREWN-2030"
+    },
+    {
+      "name": "LABEWN-1038",
+      "description": "Hands-on to migrate from AireOS to Cat9800 (IOS-XE) and configure redundancy (HA SSO) - LABEWN-1038"
+    },
+    {
+      "name": "LTRACI-2143",
+      "description": "Hands on with ACI: Deploying, Managing and Monitoring a next generation datacenter - LTRACI-2143"
+    },
+    {
+      "name": "LTRINI-2544",
+      "description": "Hands-on with Cisco HyperFlex Edge and Cisco Intersight  - LTRINI-2544"
+    },
+    {
+      "name": "PSO-3122",
+      "description": "Helping you perform and Transform at Scale:  BCS 3.0     - PSO-3122"
+    },
+    {
+      "name": "DEVNET-1330",
+      "description": "Hey network talk data to me - DEVNET-1330"
+    },
+    {
+      "name": "BRKEWN-2013",
+      "description": "High Density Wi-Fi Design, Deployment, and Optimization - BRKEWN-2013"
+    },
+    {
+      "name": "BRKOPT-2005",
+      "description": "High Speed Optics:  The road to 400G and Beyond - BRKOPT-2005"
+    },
+    {
+      "name": "BRKRST-3304",
+      "description": "Hitchhiker's Guide to Troubleshooting IPv6 - Advanced - BRKRST-3304"
+    },
+    {
+      "name": "CSSGEN-5007",
+      "description": "How a digital twin will help the Port of Rotterdam become one of the world's smartest ports - CSSGEN-5007"
+    },
+    {
+      "name": "BRKCLD-1153",
+      "description": "How Cisco Customer Experience Is Enabling a Multicloud World for Our Customers - BRKCLD-1153"
+    },
+    {
+      "name": "DEVNET-1488",
+      "description": "How DevNet Sandbox Built an Automated Data Center Network in Less than 6 Months - DEVNET-1488"
+    },
+    {
+      "name": "DEVLIT-4056",
+      "description": "How does the Python Interpreter interpret my Python? - DEVLIT-4056"
+    },
+    {
+      "name": "PAR-1358",
+      "description": "How LoRaWAN is enabling cities to become smarter - PAR-1358"
+    },
+    {
+      "name": "LTRCOL-2034",
+      "description": "How On-Premise Messaging with Cisco Jabber has evolved and can support your journey to Cisco Webex Teams - LTRCOL-2034"
+    },
+    {
+      "name": "BRKNMS-2285",
+      "description": "How to be a hero with Cisco DNA Center Platform APIs - BRKNMS-2285"
+    },
+    {
+      "name": "DEVNET-1725",
+      "description": "How to Be a Network Engineer in a Programmable Age - DEVNET-1725"
+    },
+    {
+      "name": "BRKSPG-2784",
+      "description": "How to build a Telco Cloud – Deployment models using Cisco VIM - BRKSPG-2784"
+    },
+    {
+      "name": "DEVNET-3576",
+      "description": "How to build network stateful applications with Cisco ACI App Center - DEVNET-3576"
+    },
+    {
+      "name": "BRKRST-3404",
+      "description": "How to choose the correct Branch device - BRKRST-3404"
+    },
+    {
+      "name": "DEVNET-1614",
+      "description": "How to Contribute to Ansible - Step by Step - DEVNET-1614"
+    },
+    {
+      "name": "LTRRST-2641",
+      "description": "How to deploy SDA network  using API ? - LTRRST-2641"
+    },
+    {
+      "name": "BRKSPG-3292",
+      "description": "How to design networks for Transport-optimized platforms (NCS5500/NCS5xx) leveraging new advanced technologies - BRKSPG-3292"
+    },
+    {
+      "name": "BRKACI-2690",
+      "description": "How to extend your ACI fabric to Public Clouds (AWS and Azure) - BRKACI-2690"
+    },
+    {
+      "name": "PAR-2386",
+      "description": "How to Gain Complete Visibility into Enterprise Security Posture with Continuous Controls Monitoring - PAR-2386"
+    },
+    {
+      "name": "PAR-1413",
+      "description": "How to have the cake and eat it too? Managing software development in a high-compliance environment - PAR-1413"
+    },
+    {
+      "name": "PSOCLD-2980",
+      "description": "How to make IT Ops move at the speed of Dev - PSOCLD-2980"
+    },
+    {
+      "name": "TECACI-2540",
+      "description": "How to manage and build your ACI fabric DevOps style - TECACI-2540"
+    },
+    {
+      "name": "PSOCLD-2982",
+      "description": "How to optimize your K8s infrastructure for AI/ML development with a few clicks!  - PSOCLD-2982"
+    },
+    {
+      "name": "BRKOPS-2383",
+      "description": "How to Orchestrate 100K+ devices using LSA - BRKOPS-2383"
+    },
+    {
+      "name": "DEVNET-2585",
+      "description": "How to programmatically migrate from traditional network to ACI with Terraform - DEVNET-2585"
+    },
+    {
+      "name": "BRKACI-2004",
+      "description": "How to setup an ACI fabric from scratch - BRKACI-2004"
+    },
+    {
+      "name": "BRKACI-2291",
+      "description": "How to setup an ACI Multi-Site with single POD and Multipod - BRKACI-2291"
+    },
+    {
+      "name": "PSODCN-2119",
+      "description": "How to simplify and accelerate multi-cloud strategies with ACI - PSODCN-2119"
+    },
+    {
+      "name": "DEVNET-2215",
+      "description": "How to Write an Ansible Module - DEVNET-2215"
+    },
+    {
+      "name": "BRKCOL-2385",
+      "description": "Hybrid Calling Architecture based on Webex Teams (Unified CM) - BRKCOL-2385"
+    },
+    {
+      "name": "BRKINI-2259",
+      "description": "HyperFlex Edge Architecture &amp; Cloud Management - BRKINI-2259"
+    },
+    {
+      "name": "BRKCLD-2016",
+      "description": "HyperFlex Storage Integration for Kubernetes - BRKCLD-2016"
+    },
+    {
+      "name": "IMP-4940",
+      "description": "Impact Quiz - IMP-4940"
+    },
+    {
+      "name": "BRKCOL-2111",
+      "description": "Implementing and troubleshooting Webex Board, Webex Share, and Webex cloud registered video endpoints - BRKCOL-2111"
+    },
+    {
+      "name": "PAR-1974",
+      "description": "Implementing a Network Automation Framework to Continuously Reduce MTTR - PAR-1974"
+    },
+    {
+      "name": "TECSEC-2355",
+      "description": "Implementing SD-WAN Branch Security with Cisco Router - TECSEC-2355"
+    },
+    {
+      "name": "BRKCCT-2815",
+      "description": "Implementing your messenger applications of choice with Enterprise Chat and Email (ECE) 12.x - BRKCCT-2815"
+    },
+    {
+      "name": "LABDCN-2000",
+      "description": "Implement MP-BGP EVPN VxLAN control plane - LABDCN-2000"
+    },
+    {
+      "name": "IMP-4948",
+      "description": "Improving water service delivery in Sierra Leone with data - IMP-4948"
+    },
+    {
+      "name": "BRKIOT-1618",
+      "description": "Industrial IoT Network Management using Cisco Industrial Network Director – A Deep Dive. - BRKIOT-1618"
+    },
+    {
+      "name": "BRKIOT-2698",
+      "description": "Industrial IoT Routing – Connectivity  and Beyond - BRKIOT-2698"
+    },
+    {
+      "name": "DEVWKS-1115",
+      "description": "Infrastructure as Code 1003: Leveraging Infrastructure Data Streams with Meraki - DEVWKS-1115"
+    },
+    {
+      "name": "DEVNET-2481",
+      "description": "Infrastructure as Code 2001 - Efficient Network Monitoring with Webhooks - DEVNET-2481"
+    },
+    {
+      "name": "DEVNET-2434",
+      "description": "Infrastructure as Code 2002 - Hardening your Meraki Network with Code (and APIs) - DEVNET-2434"
+    },
+    {
+      "name": "DEVNET-2086",
+      "description": "Infrastructure As Code 2003: Deploying and Managing Meraki Networks Using Code and APIs - DEVNET-2086"
+    },
+    {
+      "name": "BRKOPT-2003",
+      "description": "Innovations and Trends in Optical Networking  - BRKOPT-2003"
+    },
+    {
+      "name": "TECSDN-3161",
+      "description": "Innovative Solutions with Cisco DNA Programmability using Design Thinking - TECSDN-3161"
+    },
+    {
+      "name": "BRKCOC-2707",
+      "description": "Inside Cisco IT: Cisco Contact Center's Channel Transformation Journey - BRKCOC-2707"
+    },
+    {
+      "name": "BRKCOC-2994",
+      "description": "Inside Cisco IT: Cisco Multicloud Backbone - securely inter-connecting clouds - BRKCOC-2994"
+    },
+    {
+      "name": "BRKCOC-2236",
+      "description": "Inside Cisco IT: Cognitive Collaboration - How Cisco IT is enabling the future of meetings today - BRKCOC-2236"
+    },
+    {
+      "name": "BRKCOC-4263",
+      "description": "Inside Cisco IT: Deploying SD-WAN and SDA  - BRKCOC-4263"
+    },
+    {
+      "name": "BRKCOC-2101",
+      "description": "Inside Cisco IT: DevOps to NoOps through AIOps - Realize through MindMeld &amp; Webex Teams - BRKCOC-2101"
+    },
+    {
+      "name": "BRKCOC-2257",
+      "description": "Inside Cisco IT:  Enterprise Wireless Design and Assurance with Cisco IT - BRKCOC-2257"
+    },
+    {
+      "name": "BRKCOC-2995",
+      "description": "Inside Cisco IT: Evolution of Cisco IT infrastructure with Cisco HyperFlex - BRKCOC-2995"
+    },
+    {
+      "name": "BRKCOC-2384",
+      "description": "Inside Cisco IT: How to move to the cloud without making the news (for the wrong reasons) - BRKCOC-2384"
+    },
+    {
+      "name": "BRKCOC-1476",
+      "description": "Inside Cisco IT: Identity-as-a-Service: beyond the hype - BRKCOC-1476"
+    },
+    {
+      "name": "BRKCOC-1145",
+      "description": "Inside Cisco IT: ISE and Device Posture: How we Secure Access at Cisco - BRKCOC-1145"
+    },
+    {
+      "name": "BRKCOC-2997",
+      "description": "Inside Cisco IT: Migration of On-prem (CUCM) video endpoints to the cloud (Webex) platform - BRKCOC-2997"
+    },
+    {
+      "name": "BRKCOC-2433",
+      "description": "Inside Cisco IT: Network Monitoring and Service Assurance in Cisco IT Data Centers - BRKCOC-2433"
+    },
+    {
+      "name": "BRKSEC-2025",
+      "description": "Integrating Security Solutions with Software Defined Access Campus Networks - BRKSEC-2025"
+    },
+    {
+      "name": "LABEWN-2127",
+      "description": "Integration of DNA Spaces with Aironet &amp; Catalyst based wireless networks - LABEWN-2127"
+    },
+    {
+      "name": "PAR-2325",
+      "description": "Intelligent and agile infrastructure to simplify and accelerate deployments - PAR-2325"
+    },
+    {
+      "name": "DEVNET-2087",
+      "description": "Intent APIs in Cisco DNA Center - DEVNET-2087"
+    },
+    {
+      "name": "PSO-2449",
+      "description": "Intent-Based Networking Across Multiple Domains. Why?   - PSO-2449"
+    },
+    {
+      "name": "LABSPG-2325",
+      "description": "Intent based Traffic Steering using SR PCE Hands-on lab - LABSPG-2325"
+    },
+    {
+      "name": "LTRARC-2002",
+      "description": "Intermediate - IOS-XR Overview and Hands-on Configuration - LTRARC-2002"
+    },
+    {
+      "name": "DEVNET-1524",
+      "description": "Internet of Things: The Mirai Story - DEVNET-1524"
+    },
+    {
+      "name": "BRKSPG-2003",
+      "description": "Internet Peering Concepts and Emerging Trends  - BRKSPG-2003"
+    },
+    {
+      "name": "BRKOPS-3825",
+      "description": "Interpreting streaming telemetry data using ML/AI methods - BRKOPS-3825"
+    },
+    {
+      "name": "PAR-1983",
+      "description": "Introducing Managed Private Cloud IaaS from IBM and Cisco - PAR-1983"
+    },
+    {
+      "name": "PSODCN-2117",
+      "description": "Introducing New Cisco Intersight Capabilities: Accelerating Applications in a Hybrid, Multidomain World - PSODCN-2117"
+    },
+    {
+      "name": "PSODCN-2117R",
+      "description": "Introducing New Cisco Intersight Capabilities: Accelerating Applications in a Hybrid, Multidomain World - PSODCN-2117R"
+    },
+    {
+      "name": "DEVNET-1136",
+      "description": "Introduction of Developing Apps for Cisco ACI App Center - DEVNET-1136"
+    },
+    {
+      "name": "BRKSEC-1839",
+      "description": "Introduction to Application Security and DevSecOps - BRKSEC-1839"
+    },
+    {
+      "name": "DEVNET-1797",
+      "description": "Introduction to Automating ACI with Ansible - DEVNET-1797"
+    },
+    {
+      "name": "BRKCRS-1500",
+      "description": "Introduction to Campus Wired LAN Deployment Using Cisco Validated Designs - BRKCRS-1500"
+    },
+    {
+      "name": "BRKEWN-2670",
+      "description": "Introduction to Cisco Catalyst 9800 Wireless Controller - BRKEWN-2670"
+    },
+    {
+      "name": "LABSEC-5228",
+      "description": "Introduction to Cisco Firepower  NGFW (FTD) - LABSEC-5228"
+    },
+    {
+      "name": "LABNMS-2011",
+      "description": "Introduction to Cisco Network Service Orchestrator (NSO) - LABNMS-2011"
+    },
+    {
+      "name": "LTRCRS-2015",
+      "description": "Introduction to Cisco SD-WAN(Viptela) Hands-On Lab - LTRCRS-2015"
+    },
+    {
+      "name": "BRKCOL-2014",
+      "description": "Introduction to Cisco UC Security - BRKCOL-2014"
+    },
+    {
+      "name": "LTRRST-1954",
+      "description": "Introduction to CLI Automation with Ansible - LTRRST-1954"
+    },
+    {
+      "name": "BRKDCN-1687",
+      "description": "Introduction to DCNM: Simplifying management of your datacenter - BRKDCN-1687"
+    },
+    {
+      "name": "BRKIPM-1261",
+      "description": "Introduction to IP Multicast  - BRKIPM-1261"
+    },
+    {
+      "name": "TECRST-1991",
+      "description": "Introduction to IPv6: Connecting nodes to the IPv6 access network - TECRST-1991"
+    },
+    {
+      "name": "LTRSPG-1071",
+      "description": "Introduction to Multicast Routing on IOS-XR - LTRSPG-1071"
+    },
+    {
+      "name": "BRKEWN-2010",
+      "description": "Introduction to Next Generation Wireless Stack - BRKEWN-2010"
+    },
+    {
+      "name": "BRKCCT-2035",
+      "description": "Introduction to Planning, Design &amp; Troubleshooting Unified Contact Center Express  - BRKCCT-2035"
+    },
+    {
+      "name": "BRKRST-2124",
+      "description": "Introduction to Segment Routing - BRKRST-2124"
+    },
+    {
+      "name": "LABSPG-1327",
+      "description": "Introduction to Segment Routing v6 (SRv6) with IOS-XR - LABSPG-1327"
+    },
+    {
+      "name": "LABACI-1158",
+      "description": "Introduction to Service Graph Design(L4-L7) with Cisco ACI - LABACI-1158"
+    },
+    {
+      "name": "BRKSPG-2069",
+      "description": "Introduction to the Next Generation IOS-XR architecture - BRKSPG-2069"
+    },
+    {
+      "name": "BRKDCN-1645",
+      "description": "Introduction to VXLAN: The future path of your datacenter - BRKDCN-1645"
+    },
+    {
+      "name": "LABCRS-1005",
+      "description": "Introductory Cisco SD-WAN (Viptela) Topics - Zero-Touch Deployment and Configuration Templates - LABCRS-1005"
+    },
+    {
+      "name": "TECRST-1310",
+      "description": "Introductory - Deployment and Operation of BGP - TECRST-1310"
+    },
+    {
+      "name": "BRKCRS-2824",
+      "description": "Intuitive Zero-Trust Design, Migration and Innovation When Securing the SD-Access Workplace - BRKCRS-2824"
+    },
+    {
+      "name": "BRKSEC-3054",
+      "description": "IOS FlexVPN Remote Access, IoT and Site-to-Site advanced Crypto VPN Designs - BRKSEC-3054"
+    },
+    {
+      "name": "LABEWN-1098",
+      "description": "IOS-XE Embedded Controller deployment on WiFi6 Access Points (9100 series) - LABEWN-1098"
+    },
+    {
+      "name": "LTRARC-3500",
+      "description": "IOS XE (Routers) troubleshooting - LTRARC-3500"
+    },
+    {
+      "name": "LTRSPG-2968",
+      "description": "IOS-XR EVPN Hands-On Lab - LTRSPG-2968"
+    },
+    {
+      "name": "BRKSPG-1768",
+      "description": "IOS-XR Runtime - Trust me? Trust me not? - BRKSPG-1768"
+    },
+    {
+      "name": "DEVNET-1235",
+      "description": "IoT 101: Getting started with IoT - DEVNET-1235"
+    },
+    {
+      "name": "DEVNET-1229",
+      "description": "IoT and DevNet, a true love story - DEVNET-1229"
+    },
+    {
+      "name": "BRKIOT-2100",
+      "description": "IoT and Intent-Based Networking Solutions for Smart Cities and Connected Roadways - BRKIOT-2100"
+    },
+    {
+      "name": "DEVLIT-4026",
+      "description": "IOT Beer Making 101! - DEVLIT-4026"
+    },
+    {
+      "name": "TECIOT-2400",
+      "description": "IoT Fundamentals Bootcamp - TECIOT-2400"
+    },
+    {
+      "name": "BRKIOT-2225",
+      "description": "IoT gateway scalable deployment with Cisco Kinetic Gateway Management Module (GMM) - BRKIOT-2225"
+    },
+    {
+      "name": "BRKIOT-2497",
+      "description": "IoT Solutions for Smart Cities and Communities - BRKIOT-2497"
+    },
+    {
+      "name": "DEVNET-2529",
+      "description": "IOx 2.0 - Docker all the way - DEVNET-2529"
+    },
+    {
+      "name": "PSOSPG-3627",
+      "description": "IP Fabric for Media and Entertainment  - PSOSPG-3627"
+    },
+    {
+      "name": "BRKSPG-2602",
+      "description": "IPv4 Exhaustion:  NAT and Transition to IPv6 for Service Providers - BRKSPG-2602"
+    },
+    {
+      "name": "LTRIPV-2494",
+      "description": "IPv6 adoption in next-gen SP networks - LTRIPV-2494"
+    },
+    {
+      "name": "BRKRST-2619",
+      "description": "IPv6 Deployment: Developing an IPv6 Addressing Plan and Deploying IPv6 - BRKRST-2619"
+    },
+    {
+      "name": "BRKIP6-2223",
+      "description": "IPv6 for the World of IoT - BRKIP6-2223"
+    },
+    {
+      "name": "BRKIP6-2191",
+      "description": "IPv6: The Protocol - BRKIP6-2191"
+    },
+    {
+      "name": "BRKSPV-2303",
+      "description": "IP Video services on the cBR8 and Remote-Phy platforms - Design and Implementation  - BRKSPV-2303"
+    },
+    {
+      "name": "BRKSEC-2430",
+      "description": "ISE Deployment Staging and Planning    - BRKSEC-2430"
+    },
+    {
+      "name": "LABSEC-2812",
+      "description": "ISE integrations via pxGrid with FTD, WSA, StealthWatch - LABSEC-2812"
+    },
+    {
+      "name": "LABSEC-1662",
+      "description": "ISE Passive Identity Connector (ISE-PIC) with Active Directory WMI Provider - LABSEC-1662"
+    },
+    {
+      "name": "BRKSEC-3229",
+      "description": "ISE under magnifying glass. How to troubleshoot ISE - BRKSEC-3229"
+    },
+    {
+      "name": "PSOCLD-1983",
+      "description": "Is your cloud bill too high? Learn how you can control cloud costs with CloudCenter Suite - PSOCLD-1983"
+    },
+    {
+      "name": "PAR-2031",
+      "description": "IT Operations: Data &amp; AI for Smarter Decisions - PAR-2031"
+    },
+    {
+      "name": "BRKSEC-2002",
+      "description": "It's Cats vs Rats in the Attack Kill Chain! - BRKSEC-2002"
+    },
+    {
+      "name": "PSOCRS-1102",
+      "description": "It's not a network problem, I can prove it with Cisco DNA Assurance - PSOCRS-1102"
+    },
+    {
+      "name": "DEVNET-1444",
+      "description": "Javascript Essentials - DEVNET-1444"
+    },
+    {
+      "name": "DEVLIT-2022",
+      "description": "Jenkins-X - CI/CD for Cloud Native - DEVLIT-2022"
+    },
+    {
+      "name": "INTENT-1715",
+      "description": "Keeping It Simple: Smarter Solutions for the Digital Workplace - INTENT-1715"
+    },
+    {
+      "name": "LTRCLD-2820",
+      "description": "Kubernetes, Hyperflex, ACI OH MY! - LTRCLD-2820"
+    },
+    {
+      "name": "LABCLD-2099",
+      "description": "Kubernetes made easy with Cisco Container Platform (CCP) - LABCLD-2099"
+    },
+    {
+      "name": "DEVLIT-4055",
+      "description": "Kubernetes Networking in 20 Minutes - DEVLIT-4055"
+    },
+    {
+      "name": "DEVNET-1999",
+      "description": "Kuber-what?! Learn about Kubernetes - DEVNET-1999"
+    },
+    {
+      "name": "BRKDCN-2304",
+      "description": "L4-L7 Service Integration in Multi-Tenant VXLAN EVPN Data Center Fabrics - BRKDCN-2304"
+    },
+    {
+      "name": "DEVNET-3196",
+      "description": "Learn about Umbrella APIs - DEVNET-3196"
+    },
+    {
+      "name": "DEVNET-3010.a",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.a"
+    },
+    {
+      "name": "DEVNET-3010.d",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.d"
+    },
+    {
+      "name": "DEVNET-3010.e",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.e"
+    },
+    {
+      "name": "DEVNET-3010.i",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.i"
+    },
+    {
+      "name": "DEVNET-3010.h",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.h"
+    },
+    {
+      "name": "DEVNET-3010.j",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.j"
+    },
+    {
+      "name": "DEVNET-3010.f",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.f"
+    },
+    {
+      "name": "DEVNET-3010.b",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.b"
+    },
+    {
+      "name": "DEVNET-3010.c",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.c"
+    },
+    {
+      "name": "DEVNET-3010.f",
+      "description": "Learn how to make Network Automation Simple with the Community - DEVNET-3010.f"
+    },
+    {
+      "name": "BRKINI-2178",
+      "description": "Lessons Learned: Troubleshooting Hyperflex from a TAC perspective - BRKINI-2178"
+    },
+    {
+      "name": "PSODCN-2120",
+      "description": "Leverage High Fidelity Telemetry and Insights to Modernize SAN Infrastructure with MDS - PSODCN-2120"
+    },
+    {
+      "name": "LABSEC-2212",
+      "description": "Leveraging API on Threat Grid for malware analysis - LABSEC-2212"
+    },
+    {
+      "name": "BRKIOT-2204",
+      "description": "Leveraging industrial device visibility and operational intent to inform security policies and controls - BRKIOT-2204"
+    },
+    {
+      "name": "BRKDCN-3001",
+      "description": "Leveraging Micro Segmentation to Build Comprehensive Data Center Security Architecture - BRKDCN-3001"
+    },
+    {
+      "name": "PAR-1823",
+      "description": "Lightbits NVMe/TCP disaggregated storage solution – separation without drama! - PAR-1823"
+    },
+    {
+      "name": "BRKIOT-1291",
+      "description": "LoRaWAN for IOT Enterprises services - BRKIOT-1291"
+    },
+    {
+      "name": "LTRRST-2548",
+      "description": "Machine Learning for Routers and Switches - LTRRST-2548"
+    },
+    {
+      "name": "BRKOPS-2991",
+      "description": "Machine Learning in Network Operations: Lessons Learned  - BRKOPS-2991"
+    },
+    {
+      "name": "INTSEC-1615",
+      "description": "Making Security Easier: Refine the Grind - INTSEC-1615"
+    },
+    {
+      "name": "BRKSEC-3144",
+      "description": "Malware Execution As A Service: A Deep Dive into Threat Grid Advanced File Analysis - BRKSEC-3144"
+    },
+    {
+      "name": "BRKSEC-2498",
+      "description": "Malware Forensics - Sandbox and Investigation Techniques - BRKSEC-2498"
+    },
+    {
+      "name": "BRKNMS-2574",
+      "description": "Managing an Enterprise Network with Cisco Prime Infrastructure - BRKNMS-2574"
+    },
+    {
+      "name": "DEVNET-2560",
+      "description": "Managing IOx app deployment &amp; connectivity for IR829/IC3000 using Cisco Field Network Director - DEVNET-2560"
+    },
+    {
+      "name": "BRKRST-2560",
+      "description": "Managing large SD-WAN without Analytics and Machine Learning …. A difficult task ! - BRKRST-2560"
+    },
+    {
+      "name": "BRKACI-3545",
+      "description": "Mastering ACI Forwarding Behavior: A day in the life of packet - BRKACI-3545"
+    },
+    {
+      "name": "BRKCCT-2807",
+      "description": "Maximising contact centre capability using hybrid cloud/premise integrations - BRKCCT-2807"
+    },
+    {
+      "name": "BRKSEC-2494",
+      "description": "Maximising Threat Efficacy and Optimising Performance of Firepower Threat Defense (FTD) - BRKSEC-2494"
+    },
+    {
+      "name": "BRKDCN-2025",
+      "description": "Maximizing Network Programmability and Automation with Open NX-OS - BRKDCN-2025"
+    },
+    {
+      "name": "BRKCOL-2000",
+      "description": "Media path optimization with ICE for Mobile and Remote Access devices - BRKCOL-2000"
+    },
+    {
+      "name": "PAR-1406",
+      "description": "Meeting Application Delivery Demands with NS1 Enterprise DDI &amp; Cisco Umbrella - PAR-1406"
+    },
+    {
+      "name": "DEVNET-1232",
+      "description": "Meraki 101: Getting started with Meraki - DEVNET-1232"
+    },
+    {
+      "name": "PSO-2951",
+      "description": "Meraki Go: The power of app-managed cloud networking for small independent businesses  - PSO-2951"
+    },
+    {
+      "name": "BRKPRG-2482",
+      "description": "Meraki Infrastructure As Code: Deploying and Managing Meraki Networks Using Code and APIs - BRKPRG-2482"
+    },
+    {
+      "name": "BRKEWN-2028",
+      "description": "Meraki Wireless under the hood - BRKEWN-2028"
+    },
+    {
+      "name": "LABACI-1142",
+      "description": "Migrate your standalone ACI fabrics to Multisite   - LABACI-1142"
+    },
+    {
+      "name": "TECNMS-2478",
+      "description": "Migrating from Prime Infrastructure to Cisco DNA Center - TECNMS-2478"
+    },
+    {
+      "name": "BRKCOL-2602",
+      "description": "Migrating your existing Jabber deployment to the Cisco Collaboration Cloud - BRKCOL-2602"
+    },
+    {
+      "name": "BRKOPS-2418",
+      "description": "Migrating your network to Segment Routing using NSO - BRKOPS-2418"
+    },
+    {
+      "name": "DEVNET-1047",
+      "description": "Migration to Next-Gen Network with Automation First Approach - DEVNET-1047"
+    },
+    {
+      "name": "IMP-4317",
+      "description": "Mindfulness for Stress Management; Theory &amp; Practice - IMP-4317"
+    },
+    {
+      "name": "TECCOL-2410",
+      "description": "Mixed Cloud Premises Preferred Architecture: Understanding, Architecting, and Deploying on-premises and cloud collaboration workflows - TECCOL-2410"
+    },
+    {
+      "name": "DEVNET-1560",
+      "description": "ML Applications in IoT/Edge applications. - DEVNET-1560"
+    },
+    {
+      "name": "BRKSPM-2539",
+      "description": "Mobile Virtual Packet Core - Deployment Challenges and Best Practices on Openstack / VMware - BRKSPM-2539"
+    },
+    {
+      "name": "BRKSPG-2303",
+      "description": "Model-Driven Programmability for Cisco IOS XR - BRKSPG-2303"
+    },
+    {
+      "name": "BRKNMS-2129",
+      "description": "Model-driven Telemetry for closed Loop Automation - BRKNMS-2129"
+    },
+    {
+      "name": "LABNMS-3000",
+      "description": "Model-Driven Telemetry on IOS-XE - LABNMS-3000"
+    },
+    {
+      "name": "PAR-2009",
+      "description": "Modernizing App Delivery: Your Strategy with NS1 &amp; Cisco - PAR-2009"
+    },
+    {
+      "name": "PAR-1416",
+      "description": "Modern Observability in Software Development - PAR-1416"
+    },
+    {
+      "name": "BRKDCN-3020",
+      "description": "Monitoring and Troubleshooting Nexus 9000 (standalone) Switches - BRKDCN-3020"
+    },
+    {
+      "name": "PAR-2541",
+      "description": "Monitoring Cisco Infrastructure Today + Tomorrow: Best Practices - PAR-2541"
+    },
+    {
+      "name": "LABCCT-1125",
+      "description": "Monitor the health of Contact Center Express solution - LABCCT-1125"
+    },
+    {
+      "name": "LABSPG-1020",
+      "description": "MPLS Segment Routing Introduction - LABSPG-1020"
+    },
+    {
+      "name": "BRKIPM-2249",
+      "description": "Multicast and Segment Routing - BRKIPM-2249"
+    },
+    {
+      "name": "BRKACI-2608",
+      "description": "Multicast in the ACI fabric - BRKACI-2608"
+    },
+    {
+      "name": "BRKCLD-3440",
+      "description": "Multicloud Networking Design &amp; Deployment - BRKCLD-3440"
+    },
+    {
+      "name": "BRKDEV-2320",
+      "description": "Multi-Domain Infrastructure as Code using Orchestration and CICD as a Service - BRKDEV-2320"
+    },
+    {
+      "name": "LTRCOL-2250",
+      "description": "Multiparty Conferencing for Audio, Video and Web Collaboration using Cisco Meeting Server - LTRCOL-2250"
+    },
+    {
+      "name": "LABSEC-2811",
+      "description": "Multi-SA Virtual Tunnel Interface – no more Crypto Maps - LABSEC-2811"
+    },
+    {
+      "name": "DEVLIT-4002",
+      "description": "My MACHINE is an Honor Student at Cisco! - DEVLIT-4002"
+    },
+    {
+      "name": "CSSGEN-5008",
+      "description": "National Trust: Protecting History Through Technology - CSSGEN-5008"
+    },
+    {
+      "name": "BRKSPG-2900",
+      "description": "NCS5500: Deepdive in the Merchant Silicon High-end SP Routers - BRKSPG-2900"
+    },
+    {
+      "name": "TECNMS-2401",
+      "description": "NETCONF/YANG: Programming Networks and Model-Based Management - TECNMS-2401"
+    },
+    {
+      "name": "DEVNET-2204",
+      "description": "NetDevOpS -- Application-to-Network, automated &amp; programmable performance insights - DEVNET-2204"
+    },
+    {
+      "name": "DEVNET-2199",
+      "description": "NetDevOps – Closed-Loop operations with Streaming Telemetry - DEVNET-2199"
+    },
+    {
+      "name": "BRKDCN-2011",
+      "description": "NetDevOps: How programmability and automation can assist with Day 2 operations in the Data Centre - BRKDCN-2011"
+    },
+    {
+      "name": "DEVNET-1616",
+      "description": "NetDevOps Style Configuration Management for the Network - DEVNET-1616"
+    },
+    {
+      "name": "DEVNET-1204",
+      "description": "Network Assurance: pyATS/Genie for Network Engineers - DEVNET-1204"
+    },
+    {
+      "name": "TECNMS-4175",
+      "description": "Network Automation Journey with Cisco Network Services Orchestrator (NSO) - TECNMS-4175"
+    },
+    {
+      "name": "LABDCN-1258",
+      "description": "Network automation with Ansible - LABDCN-1258"
+    },
+    {
+      "name": "BRKSPG-2724",
+      "description": "Network Function Virtualization (NFV) using IOS-XR - BRKSPG-2724"
+    },
+    {
+      "name": "TECSPG-2300",
+      "description": "Network Function Virtualization Seminar - TECSPG-2300"
+    },
+    {
+      "name": "BRKRST-1001",
+      "description": "Networking 101 - Can I get a Refresh? - BRKRST-1001"
+    },
+    {
+      "name": "ADD-1009",
+      "description": "Networking Reception hosted by Women of Cisco - ADD-1009"
+    },
+    {
+      "name": "PSODCN-2116",
+      "description": "New Cisco Computing Innovation in UCS, HyperFlex, and Intersight to deliver applications anywhere - PSODCN-2116"
+    },
+    {
+      "name": "TECDCN-2002",
+      "description": "Next Generation Data Center Infrastructure - TECDCN-2002"
+    },
+    {
+      "name": "TECSEC-2600",
+      "description": "Next Generation Firewall Platforms and Integrations - TECSEC-2600"
+    },
+    {
+      "name": "BRKSPG-2535",
+      "description": "Next Generation SP Network Architectures: A Practical Path to Network Transformation - BRKSPG-2535"
+    },
+    {
+      "name": "BRKEWN-2033",
+      "description": "Next generation Wifi Networks enhanced with Cisco DNA Analytics and Machine Learning - BRKEWN-2033"
+    },
+    {
+      "name": "LABCOL-1382",
+      "description": "Next Gen monitoring and diagnostic tools for Unified Collaboration Products  - LABCOL-1382"
+    },
+    {
+      "name": "BRKRST-2093",
+      "description": "Next-Gen SD-WAN (Viptela) Deployment, Monitoring, and Troubleshooting - BRKRST-2093"
+    },
+    {
+      "name": "TECRST-2191",
+      "description": "Next-Gen SD-WAN (Viptela) Design, Deployment and Best Practices - TECRST-2191"
+    },
+    {
+      "name": "BRKDCN-2458",
+      "description": "Nexus 9000/7000/6000/5000 Operations and Maintenance Best Practices - BRKDCN-2458"
+    },
+    {
+      "name": "BRKDCN-2298",
+      "description": "Nexus Data Broker : Advanced SPAN and TAP Aggregation - BRKDCN-2298"
+    },
+    {
+      "name": "LTRSPG-1226",
+      "description": "NFV Management and Orchestration (MANO) with Cisco NSO, ESC and SDN Controllers - LTRSPG-1226"
+    },
+    {
+      "name": "BRKOPS-2700",
+      "description": "NSO Access Control – Role-based and Resource-based Access - BRKOPS-2700"
+    },
+    {
+      "name": "BRKDCN-3282",
+      "description": "NVMe over Fabrics (NVMe-oF) End-to-End Configuration with RoCEv2 and Fibre Channel  - BRKDCN-3282"
+    },
+    {
+      "name": "LTRDCN-2987",
+      "description": "NXOS Programmability with Python, NX-API, and Ansible - LTRDCN-2987"
+    },
+    {
+      "name": "PAR-1444",
+      "description": "Office 365 - It's your data and it is your responsibility to protect it - PAR-1444"
+    },
+    {
+      "name": "DEVNET-1069",
+      "description": "Oh you've built the best product in the world? Come back when you have proper documentation - DEVNET-1069"
+    },
+    {
+      "name": "CSSGEN-5005",
+      "description": "OnDemand private and public Cloud connectivity with the MultiCloud Platform from T-Systems - CSSGEN-5005"
+    },
+    {
+      "name": "BRKSEC-2036",
+      "description": "Only if I Could go Back in Time and Prevent a Security Apocalypse! - BRKSEC-2036"
+    },
+    {
+      "name": "KEY-1001",
+      "description": "Opening Keynote - KEY-1001"
+    },
+    {
+      "name": "BRKACI-3330",
+      "description": "Openshift and Cisco ACI Integration  - BRKACI-3330"
+    },
+    {
+      "name": "TECOPS-3692",
+      "description": "Operating and Maintaining Cisco DNA Center - TECOPS-3692"
+    },
+    {
+      "name": "DEVNET-2415",
+      "description": "Operational Dashboarding with Wireless Streaming Telemetry  - DEVNET-2415"
+    },
+    {
+      "name": "BRKINI-2348",
+      "description": "Operationalize Machine Learning: Bridge the gap between Data Scientist and IT      - BRKINI-2348"
+    },
+    {
+      "name": "ADD-1005",
+      "description": "Optical Business and Strategy Session  - ADD-1005"
+    },
+    {
+      "name": "IMP-4331",
+      "description": "Optimising wellbeing and Performance - IMP-4331"
+    },
+    {
+      "name": "BRKEWN-2003",
+      "description": "Optimize your WLANs for Small and Mobile Devices (Phones, Tablets and alike) - BRKEWN-2003"
+    },
+    {
+      "name": "BRKDCN-2125",
+      "description": "Overlay Management and Visibility with VXLAN - BRKDCN-2125"
+    },
+    {
+      "name": "BRKARC-2011",
+      "description": "Overview of Packet Capturing Tools in Cisco Switches and Routers - BRKARC-2011"
+    },
+    {
+      "name": "LABRST-2930",
+      "description": "Packet Capturing Tools in Enterprise Switching Environments - LABRST-2930"
+    },
+    {
+      "name": "LABRST-2400",
+      "description": "Packet Capturing Tools in Routing Environments - LABRST-2400"
+    },
+    {
+      "name": "LABRST-2561",
+      "description": "Packet Trace and Conditional Debugging on IOS-XE Routers - LABRST-2561"
+    },
+    {
+      "name": "BRKEWN-2480",
+      "description": "Plan, design and troubleshoot your Cisco DNA driven 9800 WLC wireless network: Best Practices and lessons learned from the field - BRKEWN-2480"
+    },
+    {
+      "name": "LABOPS-1640",
+      "description": "Plug &amp; Play  - all that you need to know to speed up your network deployments and automate device provisioning. - LABOPS-1640"
+    },
+    {
+      "name": "LTRSPG-2452",
+      "description": "Policy based Traffic Engineering with Segment Routing - LTRSPG-2452"
+    },
+    {
+      "name": "DEVNET-1217",
+      "description": "Powerful network automation with Meraki APIs - DEVNET-1217"
+    },
+    {
+      "name": "DEVNET-3214",
+      "description": "Powering Data Center Infrastructure Programmability and Automation: Cisco Intersight's API and Integrations - DEVNET-3214"
+    },
+    {
+      "name": "BRKACI-2301",
+      "description": "Practical Applications of Cisco ACI Micro Segmentation - BRKACI-2301"
+    },
+    {
+      "name": "PAR-1233",
+      "description": "Practical Applications of Hybrid Multicloud Architectures - PAR-1233"
+    },
+    {
+      "name": "PARSEC-2571",
+      "description": "Preparing your organisation for Cyber Threats in an ever-evolving digital world - PARSEC-2571"
+    },
+    {
+      "name": "PSO-2964",
+      "description": "Privacy and Ethical behavior for Innovation: AI, ML, and IoT - PSO-2964"
+    },
+    {
+      "name": "PSO-2962",
+      "description": "Privacy as a Business Enabler  - PSO-2962"
+    },
+    {
+      "name": "BRKOPS-2285",
+      "description": "Programmability with IOS-XR Platforms  - BRKOPS-2285"
+    },
+    {
+      "name": "LABRST-2678",
+      "description": "Programming for Network Engineers  - LABRST-2678"
+    },
+    {
+      "name": "LTRACI-3225",
+      "description": "Programming the ACI Fabric - LTRACI-3225"
+    },
+    {
+      "name": "DEVNET-2907",
+      "description": "Programming with Cisco Cloud Center Action Orchestrator Engine - DEVNET-2907"
+    },
+    {
+      "name": "LABCLD-2694",
+      "description": "Programming with Cloud Center AO for AWS Instance Management - LABCLD-2694"
+    },
+    {
+      "name": "DEVNET-3841",
+      "description": "Project WhatsOp - A Messaging Platform for Network Devices - DEVNET-3841"
+    },
+    {
+      "name": "BRKSEC-3433",
+      "description": "Protecting your Office 365 environment: leverage the Firepower API, Cisco Cloud Email Security and more. - BRKSEC-3433"
+    },
+    {
+      "name": "DEVNET-1237",
+      "description": "Prove It's NOT the Network: An Introduction to AppDynamics - DEVNET-1237"
+    },
+    {
+      "name": "PAR-2997",
+      "description": "Pure Storage Intersight Connector Demo - PAR-2997"
+    },
+    {
+      "name": "DEVLIT-4019",
+      "description": "Quick Wins of using NSO - DEVLIT-4019"
+    },
+    {
+      "name": "CSSGEN-5009",
+      "description": "Rakuten Mobile: All in the cloud from RAN to Core - CSSGEN-5009"
+    },
+    {
+      "name": "LABOPS-2320",
+      "description": "Real-time Services Automation with NSO and Model-Driven Telemetry - LABOPS-2320"
+    },
+    {
+      "name": "BRKDCN-1789",
+      "description": "Real World Automation In the Enterprise - BRKDCN-1789"
+    },
+    {
+      "name": "BRKSDN-2500",
+      "description": "Real World Use Cases for Deploying and Operating Cisco SD-Access Using Cisco DNA Center - BRKSDN-2500"
+    },
+    {
+      "name": "BRKCRS-1400",
+      "description": "Recipe for transforming Enterprise Networks with IBN - BRKCRS-1400"
+    },
+    {
+      "name": "LTRSPG-2233",
+      "description": "Reduce  Mean-Time-To-Innocence leveraging AIOps with Crosswork Situation Manager - LTRSPG-2233"
+    },
+    {
+      "name": "BRKSPG-2594",
+      "description": "Reduce Noise and increase Operation productivity with AIOps - BRKSPG-2594"
+    },
+    {
+      "name": "LABRST-2507",
+      "description": "Reducing OPEX and meeting critical application SLA with Application-Aware routing on Cisco SD-WAN - LABRST-2507"
+    },
+    {
+      "name": "PAR-1821",
+      "description": "Re-establish Online Trust through deep authentication - PAR-1821"
+    },
+    {
+      "name": "PSOIOT-2941",
+      "description": "Regain Control of Your Data at the IoT edge - PSOIOT-2941"
+    },
+    {
+      "name": "PSO-2556",
+      "description": "Reimagine Applications for Higher Productivity and Better Customer Experiences - PSO-2556"
+    },
+    {
+      "name": "BRKOPS-2100",
+      "description": "Resolving Network Faults Faster through Automating Entire Fault Management Process. - BRKOPS-2100"
+    },
+    {
+      "name": "BRKOPT-2002",
+      "description": "Rethink your network - The intersection of Optical and Routing - BRKOPT-2002"
+    },
+    {
+      "name": "BRKEWN-2017",
+      "description": "RF Fundamentals from WiFi to  WiFi6 (11ax)  Wireless Networks - BRKEWN-2017"
+    },
+    {
+      "name": "DEVNET-1607",
+      "description": "Rightsize Your Infrastructure with AppDynamics and CWOM - DEVNET-1607"
+    },
+    {
+      "name": "CCPDCC-1300",
+      "description": "Roadmap: Cisco Hyperconverged Infrastructure - CCPDCC-1300"
+    },
+    {
+      "name": "CCPSEC-1202",
+      "description": "Roadmap: Cisco Talos Incident Response - CCPSEC-1202"
+    },
+    {
+      "name": "CCPSEC-1201",
+      "description": "Roadmap: Cisco Umbrella - CCPSEC-1201"
+    },
+    {
+      "name": "CCPDCN-1301",
+      "description": "Roadmap: Cisco Unified Computing System (UCS) and  Intersight - CCPDCN-1301"
+    },
+    {
+      "name": "CCPCOL-1002",
+      "description": "Roadmap: Cloud Calling Solutions - CCPCOL-1002"
+    },
+    {
+      "name": "CCPDCN-1303",
+      "description": "Roadmap: Data Center Automation - ACI, DCNM, Day 2 Operations Software - CCPDCN-1303"
+    },
+    {
+      "name": "CCPDCN-1302",
+      "description": "Roadmap: Data Center Hardware - Nexus Switching Platform - CCPDCN-1302"
+    },
+    {
+      "name": "CCPSEC-1200",
+      "description": "Roadmap: Improved Policy Management and NextGen Firewalls - CCPSEC-1200"
+    },
+    {
+      "name": "CCPNET-1102",
+      "description": "Roadmap: Innovations in Catalyst Switching - CCPNET-1102"
+    },
+    {
+      "name": "CCPNET-1101",
+      "description": "Roadmap: Innovations in Catalyst Wireless and Cisco DNA Space - CCPNET-1101"
+    },
+    {
+      "name": "CCPNET-1103",
+      "description": "Roadmap: Innovations in SD-WAN and Routing - CCPNET-1103"
+    },
+    {
+      "name": "CCPNET-1100",
+      "description": "Roadmap: Network Automation, Assurance and Policy - CCPNET-1100"
+    },
+    {
+      "name": "CCPCOL-1000",
+      "description": "Roadmap: On-premise UC infrastructure (CUCM, Jabber &amp; CMS) - CCPCOL-1000"
+    },
+    {
+      "name": "CCPCOL-1001",
+      "description": "Roadmap: Phones, Headsets and Webex Video Devices (Desk, Room, Board) - CCPCOL-1001"
+    },
+    {
+      "name": "CCPCOL-1003",
+      "description": "Roadmap: Webex Meetings and Webex Teams - CCPCOL-1003"
+    },
+    {
+      "name": "DEVNET-2202",
+      "description": "Run containers in your Cat9K? Yes you can! - DEVNET-2202"
+    },
+    {
+      "name": "PSOCLD-1981",
+      "description": "Run modern serverless applications with Knative! - PSOCLD-1981"
+    },
+    {
+      "name": "LTRRST-3532",
+      "description": "Sabotage! - LTRRST-3532"
+    },
+    {
+      "name": "CSSGEN-5011",
+      "description": "Schiphol Amsterdam Airport: Digital Airport Transformation - CSSGEN-5011"
+    },
+    {
+      "name": "BRKPRG-2451",
+      "description": "Scripting IOS XE beyond the basics - BRKPRG-2451"
+    },
+    {
+      "name": "BRKCRS-3810",
+      "description": "SD-Access technology deepdive - BRKCRS-3810"
+    },
+    {
+      "name": "BRKARC-2020",
+      "description": "SD Access : Troubleshooting the fabric - BRKARC-2020"
+    },
+    {
+      "name": "CSSGEN-5010",
+      "description": "SDA in Real-Life - a technical breakdown of how to deploy and manage SDA fabrics and wireless - CSSGEN-5010"
+    },
+    {
+      "name": "PSORST-1020",
+      "description": "SD-WAN and the Evolution of the WAN Edge - PSORST-1020"
+    },
+    {
+      "name": "BRKOPS-2316",
+      "description": "SD-WAN Co-Management for MSPs: Concept, Architecture, and Example Implementation with Cisco SD-WAN - BRKOPS-2316"
+    },
+    {
+      "name": "BRKRST-2519",
+      "description": "SD-WAN, deployment strategies, managing and monitoring - BRKRST-2519"
+    },
+    {
+      "name": "TCRRST-2800",
+      "description": "SD-WAN in Real World - How to build SD-WAN networks at scale and solve/implement customers uses-cases - TCRRST-2800"
+    },
+    {
+      "name": "BRKSPG-2017",
+      "description": "SD-WAN in Service Provider networks - BRKSPG-2017"
+    },
+    {
+      "name": "BRKRST-2095",
+      "description": "SD-WAN Routing Migrations - BRKRST-2095"
+    },
+    {
+      "name": "BRKRST-2377",
+      "description": "SD-WAN Security - BRKRST-2377"
+    },
+    {
+      "name": "LABSEC-1947",
+      "description": "SD-WAN Security : Connect to any cloud, anywhere, securely - LABSEC-1947"
+    },
+    {
+      "name": "PAR-2993",
+      "description": "Secure and Accelerate Rollout of Your Apps and Services with Automated DDI - PAR-2993"
+    },
+    {
+      "name": "BRKEWN-2005",
+      "description": "Securely Designing Your Wireless LAN for Threat Mitigation, Policy and BYOD - BRKEWN-2005"
+    },
+    {
+      "name": "LABCCT-2984",
+      "description": "Secure Voice Communication - Configuration and Troubleshooting - LABCCT-2984"
+    },
+    {
+      "name": "DEVLIT-4020",
+      "description": "Secure Your Logs Down to the Root - DEVLIT-4020"
+    },
+    {
+      "name": "LABSEC-2211",
+      "description": "Secure your VDI workloads with Cisco AMP for Endpoints - LABSEC-2211"
+    },
+    {
+      "name": "TECSEC-2768",
+      "description": "Securing applications and workloads on the journey to the cloud - TECSEC-2768"
+    },
+    {
+      "name": "PSOSEC-4904",
+      "description": "Securing Application Workloads Anywhere - PSOSEC-4904"
+    },
+    {
+      "name": "BRKSEC-2605",
+      "description": "Securing Clouds: Untraditional Defenses - BRKSEC-2605"
+    },
+    {
+      "name": "PSOIOT-1156",
+      "description": "Securing Industrial Networks: Introduction to Cisco Cyber Vision - PSOIOT-1156"
+    },
+    {
+      "name": "PSOIOT-2555",
+      "description": "Securing Industrial Networks: Introduction to Cisco Cyber Vision  - PSOIOT-2555"
+    },
+    {
+      "name": "INTIOT-1215",
+      "description": "Securing IoT to Gain Your Competitive Advantage - INTIOT-1215"
+    },
+    {
+      "name": "DEVNET-3223",
+      "description": "Security 101: Getting started with Cisco Umbrella APIs - DEVNET-3223"
+    },
+    {
+      "name": "BRKSEC-3014",
+      "description": "Security Analytics with Stealthwatch: Operationalising Visibility and Machine Learning - BRKSEC-3014"
+    },
+    {
+      "name": "ADD-1001",
+      "description": "Security Operations Day - ADD-1001"
+    },
+    {
+      "name": "BRKCLD-2025",
+      "description": "Seeing Through the Fog: Visibility and Security Analytics in Cloud Workloads  - BRKCLD-2025"
+    },
+    {
+      "name": "BRKRST-3122",
+      "description": "Segment Routing: Technology deep-dive and advanced use cases - BRKRST-3122"
+    },
+    {
+      "name": "DEVNET-1697",
+      "description": "Service Mesh for Network Engineers - DEVNET-1697"
+    },
+    {
+      "name": "BRKSPG-2322",
+      "description": "Service Provider Network Fabric: How to bring Access Services using EVPN. - BRKSPG-2322"
+    },
+    {
+      "name": "BRKSPG-2518",
+      "description": "Service Provider Programmable SDN solution for the Metro Fabric, powered by Segment Routing and EVPN   - BRKSPG-2518"
+    },
+    {
+      "name": "ADD-1003",
+      "description": "Service Provider Revolution: Grow Revenue, Reduce Costs and Mitigate Risk - ADD-1003"
+    },
+    {
+      "name": "PAR-2064",
+      "description": "Simplify and Demand More from Your Backup - PAR-2064"
+    },
+    {
+      "name": "BRKINI-2983",
+      "description": "Simplifying Data Center Operations with Cisco Intersight - BRKINI-2983"
+    },
+    {
+      "name": "BRKCLD-1215",
+      "description": "Simplify Multicloud Deployments with Workload Manager and Action Orchestrator in CloudCenter Suite - BRKCLD-1215"
+    },
+    {
+      "name": "PSONWT-2010",
+      "description": "Simplify your Cisco Asset and Entitlement Management Experience with our Powerful New Platform - PSONWT-2010"
+    },
+    {
+      "name": "LABCCT-2300",
+      "description": "Single Sign-on (SSO) set up for Unified Contact Center Enterprise (UCCE) Solution - LABCCT-2300"
+    },
+    {
+      "name": "IMP-4318",
+      "description": "Sleep 2.0  Discover the Secrets of High Performance Wellbeing     - IMP-4318"
+    },
+    {
+      "name": "DEVLIT-4005",
+      "description": "Slowdown is the New Outage (SINTO) - DEVLIT-4005"
+    },
+    {
+      "name": "PSOEN-2908",
+      "description": "Small is mighty: Cisco solutions for small networks - PSOEN-2908"
+    },
+    {
+      "name": "LTRCRS-2579",
+      "description": "Smart Licensing hands-on lab - LTRCRS-2579"
+    },
+    {
+      "name": "LABRST-2813",
+      "description": "Smart Licensing with CSSM On-Prem  - LABRST-2813"
+    },
+    {
+      "name": "PAR-2331",
+      "description": "Solving customers’ key challenges so they can thrive in new business ecosystems - PAR-2331"
+    },
+    {
+      "name": "DEVLIT-4027",
+      "description": "Solving Operational Challenges with Network Automation - DEVLIT-4027"
+    },
+    {
+      "name": "PAR-2956",
+      "description": "Speed Operations and Lower Costs with vSAN-Powered HCI Solutions on Cisco UCS - PAR-2956"
+    },
+    {
+      "name": "BRKSEC-2327",
+      "description": "SPF is not an acronym for \"Spoof\"!  Let's utilize the most out of the next layer in Email Security! - BRKSEC-2327"
+    },
+    {
+      "name": "LTRMPL-2201",
+      "description": "SP SDN - Segment Routing in Action - LTRMPL-2201"
+    },
+    {
+      "name": "LTRSPG-3087",
+      "description": "SRv6 Lab - LTRSPG-3087"
+    },
+    {
+      "name": "DEVNET-1236",
+      "description": "Start Now Cisco ACI Programmability, the tasks and the tools. - DEVNET-1236"
+    },
+    {
+      "name": "DEVNET-1080.d",
+      "description": "Start Now GIT Intro - DEVNET-1080.d"
+    },
+    {
+      "name": "DEVNET-1080.a",
+      "description": "Start Now GIT Intro - DEVNET-1080.a"
+    },
+    {
+      "name": "DEVNET-1080.b",
+      "description": "Start Now GIT Intro - DEVNET-1080.b"
+    },
+    {
+      "name": "DEVNET-1080.c",
+      "description": "Start Now GIT Intro - DEVNET-1080.c"
+    },
+    {
+      "name": "DEVNET-3212",
+      "description": "Start Now with Cisco UCS programmability and automation: From the data center to converged to the cloud - DEVNET-3212"
+    },
+    {
+      "name": "CSSGEN-5002",
+      "description": "STC - Cybersecurity Business &amp; Risk Assessment - CSSGEN-5002"
+    },
+    {
+      "name": "BRKSEC-2462",
+      "description": "Stealthwatch Beyond Alarms - BRKSEC-2462"
+    },
+    {
+      "name": "BRKCRT-2002",
+      "description": "Straight from the Source: Getting your CCNP Enterprise Certification - BRKCRT-2002"
+    },
+    {
+      "name": "BRKCRT-2004",
+      "description": "Straight from the Source: Getting your CCNP Data Center Certification - BRKCRT-2004"
+    },
+    {
+      "name": "DEVLIT-4023",
+      "description": "Streaming telemetry: The value of 'realtime' analytics for the network - DEVLIT-4023"
+    },
+    {
+      "name": "IMP-4319",
+      "description": "Stress | The Inside Out Upside Down View - IMP-4319"
+    },
+    {
+      "name": "PSO-3121",
+      "description": "Succeed with Cisco’s Success Portfolio  - PSO-3121"
+    },
+    {
+      "name": "BRKCLD-2889",
+      "description": "Survive the Cloud Native age with AppDynamics and Cisco Container Platform - BRKCLD-2889"
+    },
+    {
+      "name": "BRKSEC-2010",
+      "description": "Talos Insights: The State of Cyber Security - BRKSEC-2010"
+    },
+    {
+      "name": "BRKCOL-2241",
+      "description": "Technical introduction to cloud-aware video endpoints - BRKCOL-2241"
+    },
+    {
+      "name": "BRKCOL-2004",
+      "description": "Technical overview of the journey to the cloud for on-premises video deployments - BRKCOL-2004"
+    },
+    {
+      "name": "TECDCN-1757",
+      "description": "Technical Seminar for Tetration Analytics - TECDCN-1757"
+    },
+    {
+      "name": "BRKRST-2002",
+      "description": "Techniques of a Network Detective - BRKRST-2002"
+    },
+    {
+      "name": "PAR-2135",
+      "description": "Telefónica´s New Digital Core - PAR-2135"
+    },
+    {
+      "name": "BRKEWN-2050",
+      "description": "Telemetry and Programmability in the Next Generation Wireless Stack - BRKEWN-2050"
+    },
+    {
+      "name": "BRKDCN-2628",
+      "description": "Tetration Access Policy: End User Application Access without Modifying Code - BRKDCN-2628"
+    },
+    {
+      "name": "PARDCN-2570",
+      "description": "The 3 C’s of Data Centre – CDW, Cisco &amp; Cohesity - PARDCN-2570"
+    },
+    {
+      "name": "PSOSPG-2941",
+      "description": "The 3 Stages of Network Automation and Orchestration  - PSOSPG-2941"
+    },
+    {
+      "name": "BRKCRT-1001",
+      "description": "The All-Access Guide to Prep for Your CCNA  - BRKCRT-1001"
+    },
+    {
+      "name": "BRKCOL-1609",
+      "description": "The art of running a virtual design thinking workshop using a Webex Board - BRKCOL-1609"
+    },
+    {
+      "name": "PAR-2418",
+      "description": "The bad guys have evolved but has your security strategy? - PAR-2418"
+    },
+    {
+      "name": "BRKARC-2035",
+      "description": "The Catalyst 9000 Switch Family - An Architectural View - BRKARC-2035"
+    },
+    {
+      "name": "BRKDCN-1850",
+      "description": "The Cisco Data Center Anywhere Demo Story - BRKDCN-1850"
+    },
+    {
+      "name": "DEVNET-2427",
+      "description": "THE coolest cloud-native DevOps tools - DEVNET-2427"
+    },
+    {
+      "name": "BRKRST-2129",
+      "description": "The Evolution of Network Segmentation: From Traditional methods to Software Defined Segmentation  - BRKRST-2129"
+    },
+    {
+      "name": "PAR-1992",
+      "description": "The Evolution of Utility Telecom Networks - PAR-1992"
+    },
+    {
+      "name": "BRKEWN-2809",
+      "description": "The Final Fails. 6 for (WiFi) 6 - BRKEWN-2809"
+    },
+    {
+      "name": "BRKSEC-2068",
+      "description": "The Future of Security Analytics - BRKSEC-2068"
+    },
+    {
+      "name": "PSOSEC-4905",
+      "description": "The Future of the Firewall - PSOSEC-4905"
+    },
+    {
+      "name": "IMP-4493",
+      "description": "The Grid – Keeping the lights always on - IMP-4493"
+    },
+    {
+      "name": "BRKSDN-2717",
+      "description": "The hitchhiker's guide - Managing your Network as Code (DevOps) - BRKSDN-2717"
+    },
+    {
+      "name": "PAR-4996",
+      "description": "The Key to 400G: Network Flexibility - PAR-4996"
+    },
+    {
+      "name": "TCRSEC-2600",
+      "description": "The latest on malware and other digital nasties - TCRSEC-2600"
+    },
+    {
+      "name": "BRKCRT-3100",
+      "description": "The making of tomorrow's expert: CCIE. - BRKCRT-3100"
+    },
+    {
+      "name": "IMP-4330",
+      "description": "The Management of Stress  - IMP-4330"
+    },
+    {
+      "name": "PAR-1157",
+      "description": "The Market Context for AIOps - PAR-1157"
+    },
+    {
+      "name": "BRKACI-2210",
+      "description": "The missing ACI Pilot's Operating Handbook! - BRKACI-2210"
+    },
+    {
+      "name": "DEVLIT-4017",
+      "description": "The need for a banana-sized kubernetes cluster - DEVLIT-4017"
+    },
+    {
+      "name": "TCRCRS-2500",
+      "description": "The Network Intuitive: Enabling Intent-Based Networking or Cisco DNA and SDA Insights – ask your questions - TCRCRS-2500"
+    },
+    {
+      "name": "PAR-2076",
+      "description": "The Newest Cyber Threat That's Crippling Your Business - PAR-2076"
+    },
+    {
+      "name": "PAR-2978",
+      "description": "The Next Conversation: Powering Customer Conversations With Google Cloud AI - PAR-2978"
+    },
+    {
+      "name": "PAR-2975",
+      "description": "The Next Generation of Hybrid Cloud from Cisco and Google Cloud - PAR-2975"
+    },
+    {
+      "name": "PSOCRT-4884",
+      "description": "The next level of Cisco Certifications - PSOCRT-4884"
+    },
+    {
+      "name": "BRKCLD-2808",
+      "description": "The Past, Present, and Future of Cloud - BRKCLD-2808"
+    },
+    {
+      "name": "DEVNET-1200",
+      "description": "There and back - A Network Automation Journey - DEVNET-1200"
+    },
+    {
+      "name": "PAR-1825",
+      "description": "The shift to Digital Customer Service and how to digitally transform your customer conversations - PAR-1825"
+    },
+    {
+      "name": "BRKSPG-2402",
+      "description": "The SP Service Edge Transformation with 5G, CO Transformation, Virtualization &amp; Edge Computing - BRKSPG-2402"
+    },
+    {
+      "name": "BRKCOL-4878",
+      "description": "The Struggle Is Real - Better Understand Users - BRKCOL-4878"
+    },
+    {
+      "name": "PSOCOL-2819",
+      "description": "The Webex Unified App - PSOCOL-2819"
+    },
+    {
+      "name": "BRKSEC-2056",
+      "description": "Threat Centric Network Security - BRKSEC-2056"
+    },
+    {
+      "name": "BRKDEV-2456",
+      "description": "Threat detection using Cisco's Integrated security architecture and automating workflows using APIs - BRKDEV-2456"
+    },
+    {
+      "name": "BRKSEC-2890",
+      "description": "Threat Grid Cloud and AMP - Integrations covering Web, Email, Firepower &amp; Endpoint Security - BRKSEC-2890"
+    },
+    {
+      "name": "BRKSEC-2433",
+      "description": "Threat Hunting and Incident Response with Cisco Threat Response - BRKSEC-2433"
+    },
+    {
+      "name": "DEVNET-2638",
+      "description": "Threat Hunting using APIs - DEVNET-2638"
+    },
+    {
+      "name": "PSOEN-2906",
+      "description": "Top 5 Networking Trends and how you can prepare for them - PSOEN-2906"
+    },
+    {
+      "name": "BRKCOL-2621",
+      "description": "Top Ten Tips for Deploying Cisco Phones in the Cloud - BRKCOL-2621"
+    },
+    {
+      "name": "BRKOPS-2859",
+      "description": "Towards operating a multi-domain network - BRKOPS-2859"
+    },
+    {
+      "name": "TECSPG-2735",
+      "description": "Towards Transport SDN (T-SDN): Network Architecture and Operational Evolution, Simplification and Transformation for Next Generation Services - TECSPG-2735"
+    },
+    {
+      "name": "BRKSEC-2049",
+      "description": "Tracking Down the Cyber Criminals: Revealing Malicious Infrastructures with Umbrella - BRKSEC-2049"
+    },
+    {
+      "name": "BRKSPG-2305",
+      "description": "Traffic Engineering Automation with SDN for IP MPLS(Unified/SR) Network - BRKSPG-2305"
+    },
+    {
+      "name": "BRKOPS-2936",
+      "description": "Transformed IT Operations with Cisco Automated end-to-end Service Integration Framework - BRKOPS-2936"
+    },
+    {
+      "name": "PAR-1366",
+      "description": "Transforming Student Experience in Higher Education with Cisco Infrastructure - PAR-1366"
+    },
+    {
+      "name": "INTSPG-1115",
+      "description": "Transform Your IP Infrastructure and Lead Market Disruption - INTSPG-1115"
+    },
+    {
+      "name": "TCREWN-2200",
+      "description": "Transition to Wi-Fi 6 with Cisco Catalyst Wireless - TCREWN-2200"
+    },
+    {
+      "name": "LTRSPG-2736",
+      "description": "Transport SDN with Cisco SR-PCE, Crosswork Optimization Engine and NSO - LTRSPG-2736"
+    },
+    {
+      "name": "PAR-2234",
+      "description": "Triple Performance with Half the Resources Using Memory-Accelerated FlexPod - PAR-2234"
+    },
+    {
+      "name": "BRKRST-3320",
+      "description": "Troubleshooting BGP - BRKRST-3320"
+    },
+    {
+      "name": "BRKARC-3190",
+      "description": "Troubleshooting Cisco Catalyst 9000 Series Switches - BRKARC-3190"
+    },
+    {
+      "name": "BRKCOL-3021",
+      "description": "Troubleshooting Expressway - Mobile Remote Access &amp; Webex Edge Audio - BRKCOL-3021"
+    },
+    {
+      "name": "TECSEC-3004",
+      "description": "Troubleshooting Firepower Threat Defense like a TAC Engineer - TECSEC-3004"
+    },
+    {
+      "name": "LTRCRS-2475",
+      "description": "Troubleshooting Lab with Cisco SD-WAN (Viptela) - LTRCRS-2475"
+    },
+    {
+      "name": "BRKUCC-2932",
+      "description": "Troubleshooting SIP with Cisco Unified Communications - BRKUCC-2932"
+    },
+    {
+      "name": "LABACI-1952",
+      "description": "Troubleshooting tips and tricks for Cisco ACI Fabric - LABACI-1952"
+    },
+    {
+      "name": "BRKDCN-3040",
+      "description": "Troubleshooting VxLAN BGP EVPN - BRKDCN-3040"
+    },
+    {
+      "name": "BRKRST-1401",
+      "description": "Troubleshooting with Wireshark - Tips, Tricks and Pitfalls - BRKRST-1401"
+    },
+    {
+      "name": "DEVNET-2298",
+      "description": "UCS Programmability for the Rest of Us - DEVNET-2298"
+    },
+    {
+      "name": "LRTSEC-2422",
+      "description": "Understanding and Deploying Cisco’s SD-WAN Security Lab - LRTSEC-2422"
+    },
+    {
+      "name": "LABCOL-2051",
+      "description": "Understanding and Troubleshooting Webex Video Mesh - LABCOL-2051"
+    },
+    {
+      "name": "TECIOT-2000",
+      "description": "Understanding Cisco's Internet Of Things (IOT) Solutions - TECIOT-2000"
+    },
+    {
+      "name": "BRKCOL-2607",
+      "description": "Understanding Cloud and Hybrid Collaboration Integrations - BRKCOL-2607"
+    },
+    {
+      "name": "DEVNET-2022",
+      "description": "Understanding Istio Service Mesh on Kubernetes - DEVNET-2022"
+    },
+    {
+      "name": "BRKSPG-2012",
+      "description": "Understanding Packet Forwarding and QoS Behaviour of New Access Platforms - BRKSPG-2012"
+    },
+    {
+      "name": "LABRST-2491",
+      "description": "Understanding SD-WAN Overlay Management Protocol (OMP) best path selection - LABRST-2491"
+    },
+    {
+      "name": "PAR-1363",
+      "description": "Understanding the role of LoRaWAN enterprise networks in Industry X.0 - PAR-1363"
+    },
+    {
+      "name": "TECCOL-2982",
+      "description": "Unified Collaboration Architecture - TECCOL-2982"
+    },
+    {
+      "name": "CSSGEN-5004",
+      "description": "University of Twente - Visualizing IoT with Cisco Wireless and MazeMap - CSSGEN-5004"
+    },
+    {
+      "name": "BRKSPM-2786",
+      "description": "Unleashing the Power of a Software-Defined 5G Network Architecture - BRKSPM-2786"
+    },
+    {
+      "name": "DEVLIT-4014",
+      "description": "Unleash the Power of OpenConfig - DEVLIT-4014"
+    },
+    {
+      "name": "BRKIOT-2394",
+      "description": "Unlocking the Mystery of Machine Learning and Big Data - BRKIOT-2394"
+    },
+    {
+      "name": "PSOOPS-2236",
+      "description": "Unlocking the power of open platform with Cisco DNA Center Platform - PSOOPS-2236"
+    },
+    {
+      "name": "PSOIOT-2100",
+      "description": "Unlock New Market Opportunities with Embedded Cisco Technologies - PSOIOT-2100"
+    },
+    {
+      "name": "BRKSPG-1415",
+      "description": "Unprecedented Visibility and Forensics: Analyze system integrity and trustworthiness of network devices  - BRKSPG-1415"
+    },
+    {
+      "name": "DEVLIT-4003",
+      "description": "Unquantified Serendipity - DEVLIT-4003"
+    },
+    {
+      "name": "BRKARC-1002",
+      "description": "Use the Unused : Application Hosting on Enterprise Devices - BRKARC-1002"
+    },
+    {
+      "name": "IMP-4943",
+      "description": "Using Biometrics and AI for Sustainable Development - IMP-4943"
+    },
+    {
+      "name": "BRKCOL-2256",
+      "description": "Using Collaboration API's to solve Real-World Challenges - BRKCOL-2256"
+    },
+    {
+      "name": "BRKCLD-2148",
+      "description": "Using Kubernetes to host Machine Learning workloads in a cloud native way - BRKCLD-2148"
+    },
+    {
+      "name": "BRKSPV-2919",
+      "description": "Video Transport Architectures - BRKSPV-2919"
+    },
+    {
+      "name": "BRKSEC-2111",
+      "description": "Visibility and Segmentation: First steps to secure Industrial Networks - BRKSEC-2111"
+    },
+    {
+      "name": "DEVNET-1908",
+      "description": "Voice-driven network operations for an integrated and programmable Software Defined Network - DEVNET-1908"
+    },
+    {
+      "name": "BRKCRT-2601",
+      "description": "VRF, MPLS and MP-BGP Fundamentals - BRKCRT-2601"
+    },
+    {
+      "name": "BRKDCN-2035",
+      "description": "VXLAN BGP EVPN based Multi-Site - BRKDCN-2035"
+    },
+    {
+      "name": "TECDCN-2110",
+      "description": "VXLAN BGP EVPN based Multi-Site - extended - TECDCN-2110"
+    },
+    {
+      "name": "LABDCN-2116",
+      "description": "VXLAN EVPN Automation via DCNM - LABDCN-2116"
+    },
+    {
+      "name": "LTRDCN-1572",
+      "description": "VXLAN EVPN Fabric and automation using Ansible - LTRDCN-1572"
+    },
+    {
+      "name": "LABDCT-2006",
+      "description": "VXLAN implementation and troubleshooting - LABDCT-2006"
+    },
+    {
+      "name": "BRKDCN-2249",
+      "description": "VXLAN VPC: Design and best practices  - BRKDCN-2249"
+    },
+    {
+      "name": "TECSEC-3416",
+      "description": "Walking on solid ISE: advanced use cases and deployment best practices - TECSEC-3416"
+    },
+    {
+      "name": "BRKRST-2041",
+      "description": "WAN Architectures and Design Principles - BRKRST-2041"
+    },
+    {
+      "name": "DEVNET-2089",
+      "description": "Want a self-driving Data Center Network? Try Cisco ACI with NAE - DEVNET-2089"
+    },
+    {
+      "name": "DEVNET-4096",
+      "description": "Want to code, but what language should I use - DEVNET-4096"
+    },
+    {
+      "name": "DEVNET-2610",
+      "description": "Webex APIs for Administrators - DEVNET-2610"
+    },
+    {
+      "name": "BRKCOL-2777",
+      "description": "Webex Bandwidth Management - BRKCOL-2777"
+    },
+    {
+      "name": "BRKCOL-2098",
+      "description": "Webex Control Hub deeper dive: administration and reporting of the Cisco collaboration cloud platform - BRKCOL-2098"
+    },
+    {
+      "name": "BRKCOL-2120",
+      "description": "Webex Edge for Meetings (Edge Audio, Video Mesh, Edge Connect) - BRKCOL-2120"
+    },
+    {
+      "name": "DEVNET-1462",
+      "description": "Webex Room Device APIs (latest features):  The power of automated, integrated, immersive collaboration - DEVNET-1462"
+    },
+    {
+      "name": "BRKCOL-2135",
+      "description": "Webex Serviceability Connector and Collaboration Solutions Analyzer - BRKCOL-2135"
+    },
+    {
+      "name": "BRKCOL-2795",
+      "description": "Webex Teams Security in depth - Part One - BRKCOL-2795"
+    },
+    {
+      "name": "BRKCOL-2796",
+      "description": "Webex Teams Security in depth - Part Two - Compliance, Policies and Data Loss Prevention - BRKCOL-2796"
+    },
+    {
+      "name": "PSOGEN-3192",
+      "description": "What are your 3 Magic Numbers? Save Money, Simplify Licensing &amp; Accelerate your Digital Transformation with the Cisco Enterprise Agreement - PSOGEN-3192"
+    },
+    {
+      "name": "PAR-2023",
+      "description": "What Every CISO Needs: To Know Their Security Actually Works - PAR-2023"
+    },
+    {
+      "name": "DEVLIT-4031",
+      "description": "What is Infrastructure as Code (IaC) and what is in there for me? - DEVLIT-4031"
+    },
+    {
+      "name": "DEVLIT-4036",
+      "description": "What is this WebRTC stuff all about? - DEVLIT-4036"
+    },
+    {
+      "name": "BRKSEC-2023",
+      "description": "What's new in Umbrella, Cisco's Secure Internet Gateway - BRKSEC-2023"
+    },
+    {
+      "name": "PAR-2995",
+      "description": "What will 2020 bring in application and network threats? - PAR-2995"
+    },
+    {
+      "name": "DEVLIT-4028",
+      "description": "What You Can See with AppD: Network Visualizations - DEVLIT-4028"
+    },
+    {
+      "name": "DEVNET-1228",
+      "description": "Whirlwind Tour of Cisco DNA Center for Managing Network Intent - DEVNET-1228"
+    },
+    {
+      "name": "PSODCN-2555",
+      "description": "Why ACI:  How will ACI increase agility and simplify the operational tasks of running a DC fabric? - PSODCN-2555"
+    },
+    {
+      "name": "PAR-1360",
+      "description": "Why LoRaWAN is the preferred choice for Energy and Utilities market - PAR-1360"
+    },
+    {
+      "name": "PAR-1407",
+      "description": "Why you won’t be writing log lines 5 years from now - PAR-1407"
+    },
+    {
+      "name": "PSOEN-2907",
+      "description": "Wi-Fi 6: Meet the next generation of wireless technologies  - PSOEN-2907"
+    },
+    {
+      "name": "BRKIOT-2526",
+      "description": "Wi-Fi Technology in Industrial IoT - BRKIOT-2526"
+    },
+    {
+      "name": "BRKOPS-2024",
+      "description": "Wireless Automation &amp; Assurance with Cisco DNA Center using APIs  - BRKOPS-2024"
+    },
+    {
+      "name": "LABOPS-1650",
+      "description": "Wireless Network Automation via integration of 9800 WLC to DNA Center - LABOPS-1650"
+    },
+    {
+      "name": "BRKEWN-2026",
+      "description": "Wireless Network Automation with Cisco DNA Center - BRKEWN-2026"
+    },
+    {
+      "name": "BRKIOT-1775",
+      "description": "Wireless technologies and Use Cases in Industrial IOT - BRKIOT-1775"
+    },
+    {
+      "name": "DEVNET-1291",
+      "description": "Working 9 to 5 as a NetDevOps Engineer - DEVNET-1291"
+    },
+    {
+      "name": "TCRCOL-2300",
+      "description": "Workplace Transformation and Room Booking with Webex Devices - TCRCOL-2300"
+    },
+    {
+      "name": "PSOCOL-2444",
+      "description": "Workplace Transformation: create the office of the future – today - PSOCOL-2444"
+    },
+    {
+      "name": "INTCOL-1015",
+      "description": "Workplace Transformation: Enabling Users to Work the Way They Want - INTCOL-1015"
+    },
+    {
+      "name": "LTRCRS-2300",
+      "description": "XE SD-WAN migration hands-on lab - LTRCRS-2300"
+    },
+    {
+      "name": "BRKNMS-2032",
+      "description": "YANG Data Modeling and NETFCONF: Cisco and Industry Developments - BRKNMS-2032"
+    },
+    {
+      "name": "TECDEV-2765",
+      "description": "YANG &gt; Telemetry &gt; Visualization &gt; Machine Learning OR From YANG to Machine Learning in 4 hours! - TECDEV-2765"
+    },
+    {
+      "name": "IMP-4945",
+      "description": "Your Dream Job - IMP-4945"
+    }
+  ]
