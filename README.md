@@ -10,7 +10,7 @@ The goal of this script is to download all cisco live presentations without clic
         
         # python3 getPresentionsCLEUR.py
 
-## DOCKER Commands
+## Docker commands
 
 Buil the container and copy the script to /app
 
@@ -23,4 +23,3 @@ Run the container and create directory /app/pdfs with all presentation from cisc
 Once all presentations downloaderd copy the the /app/pdfs directory from container to local drive.
 
         # docker cp $(docker ps -q --filter "ancestor=my-cleur-presentations"):/apps/pdf pdf-from-docker
-        
